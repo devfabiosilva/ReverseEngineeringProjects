@@ -3410,7 +3410,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c48a37f6-eb0e-4095-89f4-f835d6167999")
-		(property "Reference" "R3"
+		(property "Reference" "R742"
 			(at 161.29 113.03 0)
 			(effects
 				(font
@@ -3419,7 +3419,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.2k"
+		(property "Value" "10"
 			(at 161.29 115.57 0)
 			(effects
 				(font
@@ -3464,7 +3464,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/94222f4e-0f7d-43e8-8d9e-20695d5eb9d8"
-					(reference "R3")
+					(reference "R742")
 					(unit 1)
 				)
 			)
