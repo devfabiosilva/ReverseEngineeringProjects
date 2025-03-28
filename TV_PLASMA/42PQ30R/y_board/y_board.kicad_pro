@@ -389,7 +389,7 @@
     ],
     [
       "b76c5e00-b7dd-4fa5-9261-12497b90aceb",
-      "Y_SUS_UP_AND_Y_BLOCKING"
+      "Y_SUS_DOWN_AND_Y_BLOCKING"
     ],
     [
       "94222f4e-0f7d-43e8-8d9e-20695d5eb9d8",
@@ -402,6 +402,10 @@
     [
       "474439c4-a2cc-4974-a933-d86b732b8662",
       "SetUp"
+    ],
+    [
+      "089f456b-3b31-4610-89cb-c923383402ca",
+      "SetDown"
     ]
   ],
   "text_variables": {}

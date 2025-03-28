@@ -1944,7 +1944,45 @@
 		)
 	)
 	(sheet
-		(at -34.29 113.03)
+		(at -39.37 128.27)
+		(size 21.59 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "089f456b-3b31-4610-89cb-c923383402ca")
+		(property "Sheetname" "SetDown"
+			(at -39.37 127.5584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "set_down.kicad_sch"
+			(at -39.37 146.6346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "y_board"
+				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at -39.37 102.87)
 		(size 22.86 17.78)
 		(fields_autoplaced yes)
 		(stroke
@@ -1956,7 +1994,7 @@
 		)
 		(uuid "474439c4-a2cc-4974-a933-d86b732b8662")
 		(property "Sheetname" "SetUp"
-			(at -34.29 112.3184 0)
+			(at -39.37 102.1584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1965,7 +2003,7 @@
 			)
 		)
 		(property "Sheetfile" "set_up.kicad_sch"
-			(at -34.29 131.3946 0)
+			(at -39.37 121.2346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2031,7 +2069,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "b76c5e00-b7dd-4fa5-9261-12497b90aceb")
-		(property "Sheetname" "Y_SUS_UP_AND_Y_BLOCKING"
+		(property "Sheetname" "Y_SUS_DOWN_AND_Y_BLOCKING"
 			(at -39.37 18.3384 0)
 			(effects
 				(font
