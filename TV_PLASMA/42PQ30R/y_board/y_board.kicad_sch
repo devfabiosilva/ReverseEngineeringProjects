@@ -1944,6 +1944,44 @@
 		)
 	)
 	(sheet
+		(at -34.29 113.03)
+		(size 22.86 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "474439c4-a2cc-4974-a933-d86b732b8662")
+		(property "Sheetname" "SetUp"
+			(at -34.29 112.3184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "set_up.kicad_sch"
+			(at -34.29 131.3946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "y_board"
+				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at -39.37 44.45)
 		(size 25.4 20.32)
 		(fields_autoplaced yes)
@@ -2021,7 +2059,7 @@
 	)
 	(sheet
 		(at -39.37 73.66)
-		(size 27.94 27.94)
+		(size 24.13 21.59)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -2041,7 +2079,7 @@
 			)
 		)
 		(property "Sheetfile" "y_er_up_and_sus_up.kicad_sch"
-			(at -39.37 102.1846 0)
+			(at -39.37 95.8346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
