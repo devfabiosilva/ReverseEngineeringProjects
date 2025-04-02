@@ -1298,6 +1298,20 @@
 		)
 		(uuid "f167cc44-855a-45e1-b95a-79c32a4d65be")
 	)
+	(label "VOLTAGES SUPPLY"
+		(at 177.8 25.4 180)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 5 5)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "779cbdf1-5642-4986-86f0-b8a74b07cd78")
+	)
 	(global_label "VS_B"
 		(shape output)
 		(at 189.23 73.66 0)

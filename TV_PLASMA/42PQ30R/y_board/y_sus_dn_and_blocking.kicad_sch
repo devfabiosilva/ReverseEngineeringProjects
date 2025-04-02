@@ -3794,6 +3794,20 @@
 		)
 		(uuid "2c64f150-6eca-4144-b120-2b9810acc6b2")
 	)
+	(label "Y BLOCKING AND Y SUS DOWN"
+		(at 204.47 24.13 180)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 5 5)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "3b7bf054-f507-4c4f-afbb-95777993bb5a")
+	)
 	(label "BLOCKING"
 		(at 166.37 130.81 0)
 		(effects

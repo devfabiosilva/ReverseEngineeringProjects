@@ -4285,6 +4285,20 @@
 		)
 		(uuid "1e4dd405-bd39-475c-9be4-125d1a17c222")
 	)
+	(label "Y ENERGY RECOVERY UP AND Y SUS UP"
+		(at 220.98 21.59 180)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 5 5)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "63e22c66-684b-458e-a276-bbb9bcafd1f2")
+	)
 	(label "Y_ER_UP"
 		(at 156.21 92.71 0)
 		(effects

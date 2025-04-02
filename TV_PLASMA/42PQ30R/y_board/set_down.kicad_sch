@@ -2771,6 +2771,20 @@
 		)
 		(uuid "ff96a672-8f68-45d9-bc69-fa155d96d572")
 	)
+	(label "SET DOWN"
+		(at 166.37 21.59 180)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 5 5)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "53c95347-0aaa-4e95-a823-6b9702dee8b7")
+	)
 	(label "SET_DOWN"
 		(at 147.32 104.14 0)
 		(effects

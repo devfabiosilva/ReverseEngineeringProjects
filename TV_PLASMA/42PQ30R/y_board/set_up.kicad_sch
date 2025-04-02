@@ -3002,6 +3002,20 @@
 		)
 		(uuid "1eae9b3f-f72e-4319-9a04-4d6281e9e62f")
 	)
+	(label "SET UP"
+		(at 158.75 22.86 180)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 5 5)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "809d42ff-9c8c-4d39-b46e-2e2993499b81")
+	)
 	(label "SET_UP"
 		(at 120.65 104.14 0)
 		(effects

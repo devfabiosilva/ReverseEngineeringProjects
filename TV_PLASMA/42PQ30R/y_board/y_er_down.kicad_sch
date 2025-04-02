@@ -2043,6 +2043,20 @@
 		)
 		(uuid "0ef7f0e0-fa82-42cc-be38-3baaad4b6e41")
 	)
+	(label "Y ENERGY RECOVERY DOWN"
+		(at 191.77 24.13 180)
+		(effects
+			(font
+				(face "KiCad Font")
+				(size 5 5)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+			(justify right bottom)
+		)
+		(uuid "767a38be-d41e-4940-8aa5-d3e8bd293759")
+	)
 	(label "Y_ER_DOWN"
 		(at 193.04 81.28 0)
 		(effects
