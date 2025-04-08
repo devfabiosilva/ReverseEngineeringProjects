@@ -1999,13 +1999,13 @@
 		(instances
 			(project "x_board"
 				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd"
-					(page "2")
+					(page "3")
 				)
 			)
 		)
 	)
 	(sheet
-		(at -36.83 31.75)
+		(at -36.83 60.96)
 		(size 24.13 16.51)
 		(fields_autoplaced yes)
 		(stroke
@@ -2017,7 +2017,7 @@
 		)
 		(uuid "431525f0-3b3f-4d97-bb7a-a170e5fa25f0")
 		(property "Sheetname" "Z_ER_UP_AND_Z_ER_DOWN"
-			(at -36.83 31.0384 0)
+			(at -36.83 60.2484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2026,45 +2026,7 @@
 			)
 		)
 		(property "Sheetfile" "z_er_up_and_z_er_dn.kicad_sch"
-			(at -36.83 48.8446 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "x_board"
-				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at -30.48 60.96)
-		(size 25.4 17.78)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "5833f712-63ee-492f-b888-d285859535d4")
-		(property "Sheetname" "VZB"
-			(at -30.48 60.2484 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "vzb.kicad_sch"
-			(at -30.48 79.3246 0)
+			(at -36.83 78.0546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2076,6 +2038,82 @@
 			(project "x_board"
 				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd"
 					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at -35.56 88.9)
+		(size 25.4 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5833f712-63ee-492f-b888-d285859535d4")
+		(property "Sheetname" "VZB"
+			(at -35.56 88.1884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "vzb.kicad_sch"
+			(at -35.56 107.2646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "x_board"
+				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at -35.56 34.29)
+		(size 25.4 17.78)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "b3bb9483-a345-4909-963c-15baac620070")
+		(property "Sheetname" "Z_PROTECTION"
+			(at -35.56 33.5784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "z_protection.kicad_sch"
+			(at -35.56 52.6546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "x_board"
+				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd"
+					(page "2")
 				)
 			)
 		)

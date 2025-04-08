@@ -5992,7 +5992,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "3300uF"
+		(property "Value" "330uF/25V"
 			(at 31.75 111.3281 0)
 			(effects
 				(font
