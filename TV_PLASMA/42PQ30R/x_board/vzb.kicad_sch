@@ -5043,14 +5043,14 @@
 		(dnp no)
 		(uuid "5ae677ee-927b-43da-bb4e-93b8823e3914")
 		(property "Reference" "IC4"
-			(at 187.96 110.49 0)
+			(at 187.96 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "Unknown IC"
 			(at 187.96 111.76 0)
 			(effects
 				(font

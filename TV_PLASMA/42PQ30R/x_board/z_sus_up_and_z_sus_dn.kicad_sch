@@ -4337,14 +4337,14 @@
 		(dnp no)
 		(uuid "69d18c80-353d-40ec-82e4-1a44656ca64e")
 		(property "Reference" "IC30"
-			(at 87.63 58.42 0)
+			(at 87.63 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "S21850"
 			(at 87.63 59.69 0)
 			(effects
 				(font
@@ -5701,8 +5701,8 @@
 				)
 			)
 		)
-		(property "Value" "~"
-			(at 90.17 107.95 0)
+		(property "Value" "S21850"
+			(at 90.17 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)

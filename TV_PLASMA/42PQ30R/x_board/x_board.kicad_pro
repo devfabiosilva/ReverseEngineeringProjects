@@ -388,6 +388,10 @@
       "Root"
     ],
     [
+      "4b9b2cd4-424c-4bdb-b6b4-ab40bea37f9b",
+      "Z POWER SUPPLY"
+    ],
+    [
       "df0afd2f-f090-478b-8167-213732ec1fbd",
       "Z_CONTROL"
     ],
@@ -406,6 +410,10 @@
     [
       "3807ab5c-9a46-486b-ade4-9abd7bc9a454",
       "Z SUS UP AND Z SUS DOWN"
+    ],
+    [
+      "703071da-4434-417f-aac1-959b8d8aae32",
+      "Z_OUT_CONNECTIONS"
     ]
   ],
   "text_variables": {}

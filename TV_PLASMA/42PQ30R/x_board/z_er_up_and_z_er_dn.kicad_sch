@@ -1897,6 +1897,14 @@
 		(uuid "2dbaea32-b75b-44fb-b723-3747df96a3aa")
 	)
 	(no_connect
+		(at 118.11 92.71)
+		(uuid "66b572e9-86b4-4ffb-882f-488b46d22121")
+	)
+	(no_connect
+		(at 102.87 90.17)
+		(uuid "9ae7791f-2baf-4b19-a8be-1053de86e1bb")
+	)
+	(no_connect
 		(at 100.33 160.02)
 		(uuid "d48cae46-38b9-4c36-90d6-b76c497deb03")
 	)
@@ -5662,14 +5670,14 @@
 		(dnp no)
 		(uuid "40792e08-5ea7-4d3e-aabb-4f23914797a5")
 		(property "Reference" "IC29"
-			(at 107.95 148.59 0)
+			(at 107.95 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "S21850"
 			(at 107.95 149.86 0)
 			(effects
 				(font
@@ -7454,14 +7462,14 @@
 		(dnp no)
 		(uuid "9cc7091c-e41e-4f50-857d-74eba15fff88")
 		(property "Reference" "IC28"
-			(at 110.49 78.74 0)
+			(at 110.49 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "S21850"
 			(at 110.49 80.01 0)
 			(effects
 				(font
