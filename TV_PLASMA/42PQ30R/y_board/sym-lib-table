@@ -1,4 +1,5 @@
 (sym_lib_table
   (version 7)
   (lib (name "irf_s21850")(type "KiCad")(uri "${KIPRJMOD}/library/symbol/irf_s21850.kicad_sym")(options "")(descr ""))
+  (lib (name "transformer_1p_2s_edited")(type "KiCad")(uri "${KIPRJMOD}/library/symbol/transformer_1p_2s_edited.kicad_sym")(options "")(descr ""))
 )
