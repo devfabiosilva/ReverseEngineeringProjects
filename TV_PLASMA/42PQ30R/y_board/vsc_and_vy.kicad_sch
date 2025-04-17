@@ -4748,7 +4748,7 @@
 		)
 	)
 	(global_label "OE_IC102"
-		(shape input)
+		(shape passive)
 		(at 41.91 167.64 180)
 		(fields_autoplaced yes)
 		(effects
@@ -4759,7 +4759,7 @@
 		)
 		(uuid "188cc214-2436-4804-887f-1315c42964bc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 29.9744 167.64 0)
+			(at 31.0857 167.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4835,7 +4835,7 @@
 			)
 		)
 	)
-	(global_label "15VFY"
+	(global_label "15VYF"
 		(shape input)
 		(at 36.83 99.06 180)
 		(fields_autoplaced yes)

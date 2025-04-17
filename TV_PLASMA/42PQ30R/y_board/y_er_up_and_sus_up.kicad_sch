@@ -4313,7 +4313,7 @@
 		)
 		(uuid "76853510-d56b-4677-812a-ba9ffcbf3e1c")
 	)
-	(global_label "15VFY_B"
+	(global_label "15VYF_B"
 		(shape input)
 		(at 43.18 73.66 180)
 		(fields_autoplaced yes)
@@ -4428,7 +4428,7 @@
 			)
 		)
 	)
-	(global_label "15VFY_C"
+	(global_label "15VYF_C"
 		(shape output)
 		(at 85.09 66.04 0)
 		(fields_autoplaced yes)
@@ -4519,7 +4519,7 @@
 			)
 		)
 	)
-	(global_label "15VFY_C"
+	(global_label "15VYF_C"
 		(shape input)
 		(at 176.53 107.95 0)
 		(fields_autoplaced yes)

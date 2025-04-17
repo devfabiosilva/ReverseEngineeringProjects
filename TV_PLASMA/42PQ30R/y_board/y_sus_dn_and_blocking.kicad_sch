@@ -3822,7 +3822,7 @@
 		)
 		(uuid "92ae54ed-e348-4876-aa93-d61c167810fb")
 	)
-	(global_label "15VFY_B"
+	(global_label "15VYF_B"
 		(shape output)
 		(at 238.76 57.15 0)
 		(fields_autoplaced yes)
@@ -3957,7 +3957,7 @@
 			)
 		)
 	)
-	(global_label "15VFY"
+	(global_label "15VYF"
 		(shape input)
 		(at 265.43 41.91 0)
 		(fields_autoplaced yes)

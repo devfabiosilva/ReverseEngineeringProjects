@@ -1958,8 +1958,8 @@
 		)
 	)
 	(sheet
-		(at -39.37 128.27)
-		(size 21.59 17.78)
+		(at -38.1 92.71)
+		(size 20.32 10.16)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -1970,7 +1970,7 @@
 		)
 		(uuid "089f456b-3b31-4610-89cb-c923383402ca")
 		(property "Sheetname" "SetDown"
-			(at -39.37 127.5584 0)
+			(at -38.1 91.9984 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1979,7 +1979,7 @@
 			)
 		)
 		(property "Sheetfile" "set_down.kicad_sch"
-			(at -39.37 146.6346 0)
+			(at -38.1 103.4546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1996,8 +1996,8 @@
 		)
 	)
 	(sheet
-		(at -34.29 186.69)
-		(size 16.51 12.7)
+		(at -35.56 134.62)
+		(size 16.51 8.89)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -2008,7 +2008,7 @@
 		)
 		(uuid "0998a104-e78a-47ab-96f3-a0afd9646c62")
 		(property "Sheetname" "VSC and VY (Part 2 of 3)"
-			(at -34.29 185.9784 0)
+			(at -35.56 133.9084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2017,7 +2017,7 @@
 			)
 		)
 		(property "Sheetfile" "vcs_and_vy_part2_of_3.kicad_sch"
-			(at -34.29 199.9746 0)
+			(at -35.56 144.0946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2034,8 +2034,8 @@
 		)
 	)
 	(sheet
-		(at -36.83 156.21)
-		(size 20.32 16.51)
+		(at -36.83 113.03)
+		(size 20.32 11.43)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -2046,7 +2046,7 @@
 		)
 		(uuid "24722eec-b18f-4f1f-afe2-83a605a5bded")
 		(property "Sheetname" "VSC AND VY (Part 1 of 3)"
-			(at -36.83 155.4984 0)
+			(at -36.83 112.3184 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2055,7 +2055,7 @@
 			)
 		)
 		(property "Sheetfile" "vsc_and_vy.kicad_sch"
-			(at -36.83 173.3046 0)
+			(at -36.83 125.0446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2072,8 +2072,8 @@
 		)
 	)
 	(sheet
-		(at -39.37 102.87)
-		(size 22.86 17.78)
+		(at -38.1 73.66)
+		(size 19.05 11.43)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -2084,7 +2084,7 @@
 		)
 		(uuid "474439c4-a2cc-4974-a933-d86b732b8662")
 		(property "Sheetname" "SetUp"
-			(at -39.37 102.1584 0)
+			(at -38.1 72.9484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2093,7 +2093,7 @@
 			)
 		)
 		(property "Sheetfile" "set_up.kicad_sch"
-			(at -39.37 121.2346 0)
+			(at -38.1 85.6746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2110,8 +2110,8 @@
 		)
 	)
 	(sheet
-		(at -39.37 44.45)
-		(size 25.4 20.32)
+		(at -39.37 35.56)
+		(size 17.78 11.43)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -2122,7 +2122,7 @@
 		)
 		(uuid "94222f4e-0f7d-43e8-8d9e-20695d5eb9d8")
 		(property "Sheetname" "y_er_down"
-			(at -39.37 43.7384 0)
+			(at -39.37 34.8484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2131,7 +2131,7 @@
 			)
 		)
 		(property "Sheetfile" "y_er_down.kicad_sch"
-			(at -39.37 65.3546 0)
+			(at -39.37 47.5746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2149,7 +2149,7 @@
 	)
 	(sheet
 		(at -39.37 19.05)
-		(size 21.59 16.51)
+		(size 19.05 10.16)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -2169,7 +2169,7 @@
 			)
 		)
 		(property "Sheetfile" "y_sus_dn_and_blocking.kicad_sch"
-			(at -39.37 36.1446 0)
+			(at -39.37 29.7946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2186,8 +2186,8 @@
 		)
 	)
 	(sheet
-		(at -39.37 73.66)
-		(size 24.13 21.59)
+		(at -39.37 55.88)
+		(size 20.32 10.16)
 		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
@@ -2198,7 +2198,7 @@
 		)
 		(uuid "bbf561e2-1af7-4443-94b3-0a21168454fa")
 		(property "Sheetname" "y_er_up_and_sus_up"
-			(at -39.37 72.9484 0)
+			(at -39.37 55.1684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2207,7 +2207,7 @@
 			)
 		)
 		(property "Sheetfile" "y_er_up_and_sus_up.kicad_sch"
-			(at -39.37 95.8346 0)
+			(at -39.37 66.6246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2219,6 +2219,44 @@
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695"
 					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at -33.02 153.67)
+		(size 12.7 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "e0518060-d474-471b-9624-7dbd2316e9c6")
+		(property "Sheetname" "VSC and VY (Part 3 of 3)"
+			(at -33.02 152.9584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "vsc_and_vy_part3_of_3.kicad_sch"
+			(at -33.02 164.4146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "y_board"
+				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695"
+					(page "9")
 				)
 			)
 		)
