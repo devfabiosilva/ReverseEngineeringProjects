@@ -348,7 +348,7 @@
 				)
 			)
 			(circle
-				(center 3.81 8.89)
+				(center 3.81 3.81)
 				(radius 0.5)
 				(stroke
 					(width 0)

@@ -3769,7 +3769,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695"
-					(page "9")
+					(page "10")
 				)
 			)
 		)
@@ -3807,7 +3807,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695"
-					(page "3")
+					(page "4")
 				)
 			)
 		)
@@ -3845,7 +3845,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695"
-					(page "2")
+					(page "3")
 				)
 			)
 		)
@@ -3883,7 +3883,45 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695"
-					(page "8")
+					(page "9")
+				)
+			)
+		)
+	)
+	(sheet
+		(at -31.75 173.99)
+		(size 16.51 12.7)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "76b17981-32d8-4a0e-82cc-bb657e39681a")
+		(property "Sheetname" "5VF, 15VF 15v"
+			(at -31.75 173.2784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "5VF_15VF_15V.kicad_sch"
+			(at -31.75 187.2746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "y_board"
+				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695"
+					(page "2")
 				)
 			)
 		)
@@ -3921,7 +3959,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695"
-					(page "6")
+					(page "7")
 				)
 			)
 		)
@@ -3959,7 +3997,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695"
-					(page "5")
+					(page "6")
 				)
 			)
 		)
@@ -3997,7 +4035,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695"
-					(page "7")
+					(page "8")
 				)
 			)
 		)
@@ -4035,7 +4073,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695"
-					(page "4")
+					(page "5")
 				)
 			)
 		)

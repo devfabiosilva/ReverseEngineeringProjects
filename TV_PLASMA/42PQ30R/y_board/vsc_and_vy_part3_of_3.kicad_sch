@@ -3327,7 +3327,7 @@
 			)
 		)
 	)
-	(global_label "15VY"
+	(global_label "15V"
 		(shape input)
 		(at 58.42 43.18 180)
 		(fields_autoplaced yes)
@@ -3339,7 +3339,7 @@
 		)
 		(uuid "5a3aead7-012d-4672-9d07-76efa6df45a8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 50.8386 43.18 0)
+			(at 51.9272 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
