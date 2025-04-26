@@ -4311,7 +4311,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a2e0f819-929e-4e54-9d11-bb97cda68bed")
-		(property "Reference" "Q2"
+		(property "Reference" "Q408"
 			(at 125.73 101.6 0)
 			(effects
 				(font
@@ -4396,7 +4396,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/089f456b-3b31-4610-89cb-c923383402ca"
-					(reference "Q2")
+					(reference "Q408")
 					(unit 1)
 				)
 			)
