@@ -3152,7 +3152,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "050406ed-91b5-45f3-b728-e2d141f51f9f")
-		(property "Reference" "IC601"
+		(property "Reference" "IC602"
 			(at 92.71 76.2 0)
 			(effects
 				(font
@@ -3222,7 +3222,7 @@
 		(instances
 			(project ""
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/474439c4-a2cc-4974-a933-d86b732b8662"
-					(reference "IC601")
+					(reference "IC602")
 					(unit 1)
 				)
 			)

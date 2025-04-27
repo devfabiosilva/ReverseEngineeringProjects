@@ -2835,7 +2835,7 @@
 			)
 		)
 	)
-	(global_label "I_SET_DOWN_5V"
+	(global_label "SET_DOWN_5V"
 		(shape input)
 		(at 121.92 134.62 180)
 		(fields_autoplaced yes)
@@ -2847,7 +2847,7 @@
 		)
 		(uuid "4e04edfd-cc31-45d9-b095-9244db7a0fe2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 104.4206 134.62 0)
+			(at 105.993 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
