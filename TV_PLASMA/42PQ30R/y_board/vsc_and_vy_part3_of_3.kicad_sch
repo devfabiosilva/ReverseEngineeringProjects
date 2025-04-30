@@ -3377,7 +3377,7 @@
 			)
 		)
 	)
-	(global_label "OE_IC102"
+	(global_label "OE"
 		(shape passive)
 		(at 62.23 38.1 180)
 		(fields_autoplaced yes)
@@ -3389,7 +3389,7 @@
 		)
 		(uuid "1e69f1fb-7c6d-41d7-856c-e333d2edb2e4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 51.4057 38.1 0)
+			(at 57.8766 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
