@@ -2251,16 +2251,6 @@
 	)
 	(wire
 		(pts
-			(xy 100.33 151.13) (xy 158.75 151.13)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "22d40f17-11c4-4a52-aaae-2ee92045473c")
-	)
-	(wire
-		(pts
 			(xy 226.06 115.57) (xy 215.9 115.57)
 		)
 		(stroke
@@ -3241,16 +3231,6 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 151.13) (xy 158.75 129.54)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e9124e5a-2afe-415f-b01a-94d1c1aa7294")
-	)
-	(wire
-		(pts
 			(xy 120.65 111.76) (xy 120.65 115.57)
 		)
 		(stroke
@@ -3346,28 +3326,6 @@
 		(uuid "052df540-6591-418f-a482-d62c6ddd7e54")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 50.4985 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "I_DET_LEVEL_SEL_A"
-		(shape passive)
-		(at 100.33 151.13 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "18232e3f-8b7d-4612-8e80-085454dbc2ae")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 80.6763 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3830,7 +3788,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0ce6458c-9c1f-4f18-be4b-dbebbb8956a3")
-		(property "Reference" "R9"
+		(property "Reference" "R233"
 			(at 228.6 100.33 0)
 			(effects
 				(font
@@ -3884,7 +3842,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/e0518060-d474-471b-9624-7dbd2316e9c6"
-					(reference "R9")
+					(reference "R233")
 					(unit 1)
 				)
 			)
@@ -4823,7 +4781,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7b402dcd-87f6-4620-8152-15af7f71d5ab")
-		(property "Reference" "R8"
+		(property "Reference" "R325"
 			(at 200.66 72.39 0)
 			(effects
 				(font
@@ -4877,7 +4835,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/e0518060-d474-471b-9624-7dbd2316e9c6"
-					(reference "R8")
+					(reference "R325")
 					(unit 1)
 				)
 			)
@@ -5166,7 +5124,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bdfd4a2f-5dc3-465c-92e7-7afcec083881")
-		(property "Reference" "D4"
+		(property "Reference" "D301"
 			(at 195.58 82.55 90)
 			(effects
 				(font
@@ -5238,7 +5196,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/e0518060-d474-471b-9624-7dbd2316e9c6"
-					(reference "D4")
+					(reference "D301")
 					(unit 1)
 				)
 			)
@@ -5528,7 +5486,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "dff3f31d-e0ea-4a0c-97a2-53e5ef50aca1")
-		(property "Reference" "IC401"
+		(property "Reference" "IC302"
 			(at 204.47 119.38 0)
 			(effects
 				(font
@@ -5598,7 +5556,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/e0518060-d474-471b-9624-7dbd2316e9c6"
-					(reference "IC401")
+					(reference "IC302")
 					(unit 1)
 				)
 			)
