@@ -2992,6 +2992,12 @@
 		(color 0 0 0 0)
 		(uuid "f3a5f42e-2e73-44a9-9e91-ba383a8b8d14")
 	)
+	(junction
+		(at 45.72 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fbd763ed-729e-4382-9165-ae5162e49cea")
+	)
 	(wire
 		(pts
 			(xy 242.57 137.16) (xy 237.49 137.16)
@@ -3021,6 +3027,16 @@
 			(type default)
 		)
 		(uuid "049865ff-c3d5-44e8-9d4c-45a17c95a7f6")
+	)
+	(wire
+		(pts
+			(xy 29.21 127) (xy 29.21 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04a60153-400e-476a-8bb9-a46b1ab65d4f")
 	)
 	(wire
 		(pts
@@ -3351,6 +3367,16 @@
 			(type default)
 		)
 		(uuid "35d921f3-80cb-40be-afb4-60234eb99c7b")
+	)
+	(wire
+		(pts
+			(xy 29.21 134.62) (xy 29.21 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "383c4fba-8309-4554-a9d0-7f6348ba2b54")
 	)
 	(wire
 		(pts
@@ -3814,7 +3840,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 123.19) (xy 45.72 128.27)
+			(xy 45.72 118.11) (xy 45.72 123.19)
 		)
 		(stroke
 			(width 0)
@@ -4184,6 +4210,16 @@
 	)
 	(wire
 		(pts
+			(xy 45.72 123.19) (xy 45.72 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb77c1eb-ed4b-4227-b8a8-f4d9b5a94e29")
+	)
+	(wire
+		(pts
 			(xy 215.9 91.44) (xy 208.28 91.44)
 		)
 		(stroke
@@ -4284,6 +4320,16 @@
 	)
 	(wire
 		(pts
+			(xy 29.21 146.05) (xy 45.72 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb0ca148-861c-49f2-86b1-0dec39d31ca5")
+	)
+	(wire
+		(pts
 			(xy 208.28 86.36) (xy 228.6 86.36)
 		)
 		(stroke
@@ -4354,7 +4400,17 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 60.96) (xy 45.72 115.57)
+			(xy 29.21 123.19) (xy 45.72 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5303d87-af6e-442d-b8ee-fbb0d3a75efd")
+	)
+	(wire
+		(pts
+			(xy 45.72 60.96) (xy 45.72 110.49)
 		)
 		(stroke
 			(width 0)
@@ -4672,33 +4728,31 @@
 		)
 		(uuid "ff07676e-2ae8-47b2-aa4b-4d3ed6fb8cf7")
 	)
-	(label "VSC and VY (Part 1 of 3)"
-		(at 200.66 25.4 180)
-		(effects
-			(font
-				(face "KiCad Font")
-				(size 5 5)
-				(thickness 0.254)
-				(bold yes)
-				(italic yes)
-			)
-			(justify right bottom)
-		)
-		(uuid "07a32ac6-eda9-41e6-b558-c5d4a363bdea")
-	)
-	(label "VY_ADJUST"
-		(at 33.02 137.16 0)
+	(text "VY_ADJUST"
+		(exclude_from_sim no)
+		(at 54.61 129.54 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 				(thickness 0.254)
 				(bold yes)
 				(italic yes)
-				(color 9 1 255 1)
 			)
-			(justify left bottom)
 		)
-		(uuid "30bb785d-95fa-4d77-8c74-3f3d7e4aa434")
+		(uuid "4f0bf870-911d-4ec9-8665-2a8ed534d8cf")
+	)
+	(text "VSC and VY (Part 1 of 3)"
+		(exclude_from_sim no)
+		(at 154.94 21.59 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 0.6)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "d950864d-346c-45ef-94ae-6374fc119ee6")
 	)
 	(global_label "VS_B"
 		(shape input)
@@ -5378,6 +5432,75 @@
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/24722eec-b18f-4f1f-afe2-83a605a5bded"
 					(reference "C512")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 29.21 130.81 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2330965e-9a86-4092-b821-30366675b45e")
+		(property "Reference" "R526"
+			(at 30.48 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "680"
+			(at 30.48 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 27.432 130.81 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 29.21 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 29.21 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e030a161-eb5d-4cf6-84a1-111a111bcc3b")
+		)
+		(pin "2"
+			(uuid "66dcb428-0f9d-4ed8-8566-f7e46214c0c3")
+		)
+		(instances
+			(project "y_board"
+				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/24722eec-b18f-4f1f-afe2-83a605a5bded"
+					(reference "R526")
 					(unit 1)
 				)
 			)
@@ -7073,7 +7196,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 45.72 119.38 0)
+		(at 45.72 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7081,7 +7204,7 @@
 		(dnp no)
 		(uuid "a40a9f04-3c73-430e-bd05-9154266b13de")
 		(property "Reference" "R524"
-			(at 46.99 118.11 0)
+			(at 46.99 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7089,8 +7212,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22k"
-			(at 46.99 120.65 0)
+		(property "Value" "220k"
+			(at 46.99 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7099,7 +7222,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 43.942 119.38 90)
+			(at 43.942 114.3 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7108,7 +7231,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 45.72 119.38 0)
+			(at 45.72 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7117,7 +7240,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 45.72 119.38 0)
+			(at 45.72 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7288,7 +7411,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b4228615-3fcd-452e-958c-4852ce3a608b")
-		(property "Reference" "R524"
+		(property "Reference" "R512"
 			(at 185.42 59.69 0)
 			(effects
 				(font
@@ -7297,7 +7420,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22k"
+		(property "Value" "220k"
 			(at 185.42 62.23 0)
 			(effects
 				(font
@@ -7342,7 +7465,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/24722eec-b18f-4f1f-afe2-83a605a5bded"
-					(reference "R524")
+					(reference "R512")
 					(unit 1)
 				)
 			)
@@ -7497,7 +7620,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b66f2247-240d-43f1-8d86-576050fac00b")
-		(property "Reference" "IC501"
+		(property "Reference" "IC502"
 			(at 90.17 104.14 0)
 			(effects
 				(font
@@ -7559,7 +7682,7 @@
 		(instances
 			(project ""
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/24722eec-b18f-4f1f-afe2-83a605a5bded"
-					(reference "IC501")
+					(reference "IC502")
 					(unit 1)
 				)
 			)
@@ -8226,7 +8349,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "fb0639c5-2730-4b2f-bcd1-627b3480253d")
-		(property "Reference" "R718"
+		(property "Reference" "R503"
 			(at 193.04 54.61 90)
 			(effects
 				(font
@@ -8278,7 +8401,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/24722eec-b18f-4f1f-afe2-83a605a5bded"
-					(reference "R718")
+					(reference "R503")
 					(unit 1)
 				)
 			)

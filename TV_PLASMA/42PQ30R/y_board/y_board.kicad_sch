@@ -1782,12 +1782,6 @@
 		(uuid "8ef09e5e-b60e-44e8-8cf8-337d366af047")
 	)
 	(junction
-		(at 139.7 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "985d50b1-04fd-41e2-8f8f-58957510c4bc")
-	)
-	(junction
 		(at 105.41 54.61)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1840,6 +1834,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bf27cfae-5806-499d-b3fa-28b621c13840")
+	)
+	(junction
+		(at 151.13 67.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d5cc060e-2182-49aa-bdba-43b9af684eec")
 	)
 	(junction
 		(at 214.63 82.55)
@@ -2013,6 +2013,16 @@
 	)
 	(wire
 		(pts
+			(xy 151.13 67.31) (xy 151.13 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3c4c85ba-6687-4648-8fad-617717cf88e8")
+	)
+	(wire
+		(pts
 			(xy 101.6 57.15) (xy 105.41 57.15)
 		)
 		(stroke
@@ -2150,16 +2160,6 @@
 			(type default)
 		)
 		(uuid "6d745421-bf96-420d-94e9-bfe41bfab425")
-	)
-	(wire
-		(pts
-			(xy 154.94 67.31) (xy 139.7 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "72a4023a-b308-4e2f-9bae-5917870f8f99")
 	)
 	(wire
 		(pts
@@ -2343,16 +2343,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 67.31) (xy 139.7 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be656fe7-2b25-435c-b447-73a35472d74c")
-	)
-	(wire
-		(pts
 			(xy 104.14 77.47) (xy 104.14 74.93)
 		)
 		(stroke
@@ -2400,6 +2390,16 @@
 			(type default)
 		)
 		(uuid "cb6a2c08-92ed-4739-adfb-5e2dbdf63f06")
+	)
+	(wire
+		(pts
+			(xy 139.7 67.31) (xy 151.13 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf3b88bf-f192-476a-9a03-60da60eb96b9")
 	)
 	(wire
 		(pts
@@ -2501,6 +2501,29 @@
 		)
 		(uuid "f1463b54-b728-4c84-a960-efa9dca0f9f2")
 	)
+	(wire
+		(pts
+			(xy 151.13 67.31) (xy 154.94 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbc14bb6-9fd6-48ff-b343-893234e69c62")
+	)
+	(text "VOLTAGES SUPPLY"
+		(exclude_from_sim no)
+		(at 151.13 21.59 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 0.6)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "7b2bc9b3-8b9a-4a1a-9809-38f2189f0f55")
+	)
 	(text "P202 (Output VA Supply)\n\n1- GND\n2- GND\n3- GND\n4- NC\n5- +VA\n6- +VA\n7- +VA\n"
 		(exclude_from_sim no)
 		(at 232.41 83.82 0)
@@ -2522,20 +2545,6 @@
 			(justify left)
 		)
 		(uuid "f167cc44-855a-45e1-b95a-79c32a4d65be")
-	)
-	(label "VOLTAGES SUPPLY"
-		(at 177.8 25.4 180)
-		(effects
-			(font
-				(face "KiCad Font")
-				(size 5 5)
-				(thickness 0.254)
-				(bold yes)
-				(italic yes)
-			)
-			(justify right bottom)
-		)
-		(uuid "779cbdf1-5642-4986-86f0-b8a74b07cd78")
 	)
 	(global_label "VS_B"
 		(shape output)
@@ -2672,7 +2681,7 @@
 	)
 	(symbol
 		(lib_id "power:Earth")
-		(at 139.7 69.85 0)
+		(at 151.13 74.93 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2681,7 +2690,7 @@
 		(fields_autoplaced yes)
 		(uuid "2bd01f14-464d-47d7-976e-4a27c6feb7e8")
 		(property "Reference" "#PWR1"
-			(at 139.7 76.2 0)
+			(at 151.13 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2690,7 +2699,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 139.7 74.93 0)
+			(at 151.13 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2699,7 +2708,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 139.7 69.85 0)
+			(at 151.13 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2708,7 +2717,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.7 69.85 0)
+			(at 151.13 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2717,7 +2726,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"Earth\""
-			(at 139.7 69.85 0)
+			(at 151.13 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3851,6 +3860,44 @@
 		)
 	)
 	(sheet
+		(at 309.88 137.16)
+		(size 16.51 11.43)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "2a2a0bbb-0850-4dd2-93e0-99a69e22cab6")
+		(property "Sheetname" "Output Control (Part 4 of 4)"
+			(at 309.88 136.4484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "output_control4.kicad_sch"
+			(at 309.88 149.1746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "y_board"
+				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695"
+					(page "17")
+				)
+			)
+		)
+	)
+	(sheet
 		(at -33.02 196.85)
 		(size 20.32 10.16)
 		(fields_autoplaced yes)
@@ -3976,7 +4023,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "660b24e9-8286-4755-abb4-29145ab050e6")
-		(property "Sheetname" "Output Control (Part 1 of 3)"
+		(property "Sheetname" "Output Control (Part 1 of 4)"
 			(at 311.15 55.1684 0)
 			(effects
 				(font
@@ -4036,6 +4083,44 @@
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695"
 					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 311.15 115.57)
+		(size 13.97 10.16)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8325808d-91e8-46c8-a259-dac2ac07692e")
+		(property "Sheetname" "Output Control (Part 3 of 4)"
+			(at 311.15 114.8584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "output_control3.kicad_sch"
+			(at 311.15 126.3146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "y_board"
+				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695"
+					(page "16")
 				)
 			)
 		)
@@ -4204,7 +4289,7 @@
 			(color 0 0 0 0.0000)
 		)
 		(uuid "dfed1ab7-fd56-4abf-b268-9e5bf52e5b84")
-		(property "Sheetname" "Output Control (Part 2 of 3)"
+		(property "Sheetname" "Output Control (Part 2 of 4)"
 			(at 313.69 90.7284 0)
 			(effects
 				(font

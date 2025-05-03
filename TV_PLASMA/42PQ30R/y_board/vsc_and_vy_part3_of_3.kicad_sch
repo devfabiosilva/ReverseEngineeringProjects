@@ -3299,19 +3299,18 @@
 		)
 		(uuid "fe0ea4c4-aade-4eb0-bd3c-163e2fe26406")
 	)
-	(label "VSC and VY (Part 3 of 3)"
-		(at 190.5 22.86 180)
+	(text "VSC and VY (Part 3 of 3)"
+		(exclude_from_sim no)
+		(at 147.32 19.05 0)
 		(effects
 			(font
-				(face "KiCad Font")
 				(size 5 5)
-				(thickness 0.254)
+				(thickness 0.6)
 				(bold yes)
 				(italic yes)
 			)
-			(justify right bottom)
 		)
-		(uuid "24a110a9-cd23-437e-92d2-3c4667775ac3")
+		(uuid "4e9be28b-3215-47c4-970f-2cbf1af1ee92")
 	)
 	(global_label "PROTECTION_2"
 		(shape passive)

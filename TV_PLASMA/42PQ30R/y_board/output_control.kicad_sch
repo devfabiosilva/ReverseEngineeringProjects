@@ -9,7 +9,7 @@
 		(date "2025-03-24")
 		(rev "1.0")
 		(comment 1 "Author: Fábio Pereira da Silva")
-		(comment 2 "Output Control (Part 1 of 3)")
+		(comment 2 "Output Control (Part 1 of 4)")
 	)
 	(lib_symbols
 		(symbol "Device:C_Small"
@@ -1463,19 +1463,18 @@
 		)
 		(uuid "f9ac1907-1426-474e-b850-86407ca0ef71")
 	)
-	(label "OUPUT CONTROL (Part 1 of 3)"
-		(at 194.31 26.67 180)
+	(text "OUPUT CONTROL (Part 1 of 4)"
+		(exclude_from_sim no)
+		(at 147.32 22.86 0)
 		(effects
 			(font
-				(face "KiCad Font")
 				(size 5 5)
-				(thickness 0.254)
+				(thickness 0.6)
 				(bold yes)
 				(italic yes)
 			)
-			(justify right bottom)
 		)
-		(uuid "15790202-f9fd-4ddc-875c-2329a98ae1c9")
+		(uuid "a7484d9c-b901-4741-b55c-75914d3e5a2f")
 	)
 	(global_label "OUT_A"
 		(shape passive)

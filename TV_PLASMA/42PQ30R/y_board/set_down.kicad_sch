@@ -2771,47 +2771,44 @@
 		)
 		(uuid "ff96a672-8f68-45d9-bc69-fa155d96d572")
 	)
-	(label "SET DOWN"
-		(at 166.37 21.59 180)
+	(text "SET_DOWN ADJUST"
+		(exclude_from_sim no)
+		(at 147.32 102.87 0)
 		(effects
 			(font
-				(face "KiCad Font")
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "0cb6fd4c-2f48-4834-b519-d52ac413679b")
+	)
+	(text "SET_DOWN"
+		(exclude_from_sim no)
+		(at 228.6 121.92 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "bcc5ea76-ad4f-443c-a12e-98ae65be354e")
+	)
+	(text "SET DOWN"
+		(exclude_from_sim no)
+		(at 173.99 20.32 0)
+		(effects
+			(font
 				(size 5 5)
-				(thickness 0.254)
+				(thickness 0.6)
 				(bold yes)
 				(italic yes)
 			)
-			(justify right bottom)
 		)
-		(uuid "53c95347-0aaa-4e95-a823-6b9702dee8b7")
-	)
-	(label "SET_DOWN"
-		(at 147.32 104.14 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-				(italic yes)
-				(color 9 1 255 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "8006daa5-2bc4-41a3-b365-fc8746e61fe5")
-	)
-	(label "SET_DOWN"
-		(at 226.06 130.81 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-				(italic yes)
-				(color 9 1 255 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "e5289867-070a-4709-8e97-5418103398c4")
+		(uuid "def02e50-6db9-40cc-a4b8-92347a553e9f")
 	)
 	(global_label "I_SLOPE_RATE_SEL_5V"
 		(shape input)

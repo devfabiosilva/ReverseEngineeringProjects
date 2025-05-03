@@ -3130,33 +3130,31 @@
 		)
 		(uuid "faa54464-9acd-44a3-9ce7-291b2ad8e34d")
 	)
-	(label "VSC_ADJUST"
-		(at 92.71 88.9 0)
+	(text "VSC and VY (Part 2 of 3)"
+		(exclude_from_sim no)
+		(at 179.07 20.32 0)
 		(effects
 			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-				(italic yes)
-				(color 9 1 255 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "6afc73f6-4f26-490f-b061-05aafddfb12c")
-	)
-	(label "VSC and VY (Part 2 of 3)"
-		(at 193.04 24.13 180)
-		(effects
-			(font
-				(face "KiCad Font")
 				(size 5 5)
+				(thickness 0.6)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "04cb9c35-aab9-44e3-bd85-9d36dba638fb")
+	)
+	(text "VSC_ADJUST"
+		(exclude_from_sim no)
+		(at 97.79 88.9 0)
+		(effects
+			(font
+				(size 1.5 1.5)
 				(thickness 0.254)
 				(bold yes)
 				(italic yes)
 			)
-			(justify right bottom)
 		)
-		(uuid "fc949d25-0759-493a-9bb5-b3bb7c20f439")
+		(uuid "1e2a72d7-12d8-4551-a581-35cc4e290d81")
 	)
 	(global_label "VSC"
 		(shape output)

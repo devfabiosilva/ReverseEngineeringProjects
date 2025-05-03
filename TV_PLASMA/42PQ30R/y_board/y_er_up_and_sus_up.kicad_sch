@@ -4261,57 +4261,57 @@
 		)
 		(uuid "ff963644-095d-460f-b2f8-4555fff42a99")
 	)
-	(label "Y_SUS_UP"
-		(at 214.63 63.5 0)
+	(text "Y ENERGY RECOVERY UP AND Y SUS UP"
+		(exclude_from_sim no)
+		(at 156.21 19.05 0)
 		(effects
 			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-				(italic yes)
-				(color 9 1 255 1)
-			)
-			(justify left bottom)
-		)
-		(uuid "11196f66-10a5-49c6-ac94-b150fe9da4c5")
-	)
-	(label "Y ENERGY RECOVERY COIL"
-		(at 73.66 31.75 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "1e4dd405-bd39-475c-9be4-125d1a17c222")
-	)
-	(label "Y ENERGY RECOVERY UP AND Y SUS UP"
-		(at 220.98 21.59 180)
-		(effects
-			(font
-				(face "KiCad Font")
 				(size 5 5)
-				(thickness 0.254)
+				(thickness 0.6)
 				(bold yes)
 				(italic yes)
 			)
-			(justify right bottom)
 		)
-		(uuid "63e22c66-684b-458e-a276-bbb9bcafd1f2")
+		(uuid "0f75d27a-f22f-4109-8cb0-fdaafe42ab1f")
 	)
-	(label "Y_ER_UP"
-		(at 156.21 100.33 0)
+	(text "Y_SUS_UP"
+		(exclude_from_sim no)
+		(at 219.71 64.77 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 				(thickness 0.254)
 				(bold yes)
 				(italic yes)
-				(color 9 1 255 1)
 			)
-			(justify left bottom)
 		)
-		(uuid "76853510-d56b-4677-812a-ba9ffcbf3e1c")
+		(uuid "4e6c1628-712c-408c-9c57-b40ba62ecda4")
+	)
+	(text "Y ENERGY RECOVERY COIL"
+		(exclude_from_sim no)
+		(at 88.9 33.02 0)
+		(effects
+			(font
+				(size 2 2)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "a81a360a-d0e6-4b69-b526-68452230268a")
+	)
+	(text "Y_ER_UP"
+		(exclude_from_sim no)
+		(at 157.48 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "edbd7cba-2a95-4577-ba0c-2576a00bd744")
 	)
 	(global_label "15VYF_B"
 		(shape input)
@@ -7517,7 +7517,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e30edbba-0d7b-4ece-9989-3ca8e0f0f10b")
-		(property "Reference" "R721"
+		(property "Reference" "R121"
 			(at 60.96 163.83 0)
 			(effects
 				(font
@@ -7571,7 +7571,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/bbf561e2-1af7-4443-94b3-0a21168454fa"
-					(reference "R721")
+					(reference "R121")
 					(unit 1)
 				)
 			)

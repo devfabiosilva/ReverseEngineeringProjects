@@ -1901,19 +1901,18 @@
 		)
 		(uuid "fbf1f2fc-faed-44e4-800a-1a66c81919d5")
 	)
-	(label "Input Control (Part 2 of 3)"
-		(at 196.85 25.4 180)
+	(text "Input Control (Part 2 of 3)"
+		(exclude_from_sim no)
+		(at 146.05 22.86 0)
 		(effects
 			(font
-				(face "KiCad Font")
 				(size 5 5)
-				(thickness 0.254)
+				(thickness 0.6)
 				(bold yes)
 				(italic yes)
 			)
-			(justify right bottom)
 		)
-		(uuid "26e3551b-82af-4997-8556-8fadae1645c1")
+		(uuid "ba42a497-8630-404a-b062-0b294955c192")
 	)
 	(global_label "I_OC1_5V"
 		(shape output)
