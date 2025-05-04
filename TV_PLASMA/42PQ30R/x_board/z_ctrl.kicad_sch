@@ -1842,19 +1842,18 @@
 		)
 		(uuid "ffeeefb3-30c0-40e2-8b93-a2b612b336db")
 	)
-	(label "Z CONTROL"
-		(at 161.29 29.21 180)
+	(text "Z CONTROL"
+		(exclude_from_sim no)
+		(at 149.86 24.13 0)
 		(effects
 			(font
-				(face "KiCad Font")
 				(size 5 5)
 				(thickness 0.254)
 				(bold yes)
 				(italic yes)
 			)
-			(justify right bottom)
 		)
-		(uuid "f548934f-6980-41da-b003-4a7e7c4bf45c")
+		(uuid "392807a4-16a5-4a7a-b45f-383d3b6e4b00")
 	)
 	(global_label "Z_SUS_DOWN_5V_A"
 		(shape output)
@@ -3423,7 +3422,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d3316a62-bbfe-4135-9d31-a06900f0aaaa")
-		(property "Reference" "R38"
+		(property "Reference" "R28"
 			(at 118.11 133.35 90)
 			(effects
 				(font
@@ -3475,7 +3474,7 @@
 		(instances
 			(project "x_board"
 				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/df0afd2f-f090-478b-8167-213732ec1fbd"
-					(reference "R38")
+					(reference "R28")
 					(unit 1)
 				)
 			)

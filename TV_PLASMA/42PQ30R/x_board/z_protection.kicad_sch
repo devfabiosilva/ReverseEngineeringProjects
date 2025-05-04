@@ -1315,7 +1315,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 142.24) (xy 105.41 142.24)
+			(xy 105.41 142.24) (xy 208.28 142.24)
 		)
 		(stroke
 			(width 0)
@@ -1515,7 +1515,7 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 134.62) (xy 111.76 134.62)
+			(xy 111.76 134.62) (xy 208.28 134.62)
 		)
 		(stroke
 			(width 0)
@@ -1532,16 +1532,6 @@
 			(type default)
 		)
 		(uuid "7d3492c8-d1d4-4248-9373-340be6ae8738")
-	)
-	(wire
-		(pts
-			(xy 123.19 134.62) (xy 208.28 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "816ff342-fbc8-407c-9942-0f4984c008b8")
 	)
 	(wire
 		(pts
@@ -1622,16 +1612,6 @@
 			(type default)
 		)
 		(uuid "9e0744ea-216a-4fce-b8e8-8fcef438483b")
-	)
-	(wire
-		(pts
-			(xy 123.19 142.24) (xy 208.28 142.24)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9ecaef47-aba6-402b-a6a7-bd5c72651ed6")
 	)
 	(wire
 		(pts
@@ -1833,19 +1813,18 @@
 		)
 		(uuid "f7342ca6-6d79-4b50-a233-82baf4a5ac10")
 	)
-	(label "Z PROTECTION"
-		(at 166.37 26.67 180)
+	(text "Z PROTECTION"
+		(exclude_from_sim no)
+		(at 139.7 22.86 0)
 		(effects
 			(font
-				(face "KiCad Font")
 				(size 5 5)
 				(thickness 0.254)
 				(bold yes)
 				(italic yes)
 			)
-			(justify right bottom)
 		)
-		(uuid "4b02f946-1e52-471a-bef1-9dfa92a63792")
+		(uuid "593543f1-1410-401f-bf58-a9c4e922771f")
 	)
 	(global_label "Z_SUS_UP_5V"
 		(shape output)
@@ -1954,73 +1933,6 @@
 				)
 				(justify left)
 				(hide yes)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 120.65 142.24 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "130bac5c-90e9-4491-8c97-d3d0abadf5c0")
-		(property "Reference" "R313"
-			(at 120.65 144.78 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100"
-			(at 120.65 147.32 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 120.65 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 120.65 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 120.65 142.24 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "b59052c8-bbe7-4bc5-a915-fb956e2c64cb")
-		)
-		(pin "2"
-			(uuid "7f4f8065-a3d2-451e-af00-26a7c6c554a6")
-		)
-		(instances
-			(project "x_board"
-				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/b3bb9483-a345-4909-963c-15baac620070"
-					(reference "R313")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -2220,73 +2132,6 @@
 			(project "x_board"
 				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/b3bb9483-a345-4909-963c-15baac620070"
 					(reference "R310")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_Small")
-		(at 120.65 134.62 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5afc9e73-b831-40b1-8602-48c1e0ff45ed")
-		(property "Reference" "R312"
-			(at 120.65 129.54 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "100"
-			(at 120.65 132.08 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 120.65 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 120.65 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, small symbol"
-			(at 120.65 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4a990845-a14f-4385-97b1-1786fd126bc5")
-		)
-		(pin "2"
-			(uuid "8eb6bd35-eb27-438e-8710-33cb832d53ca")
-		)
-		(instances
-			(project "x_board"
-				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/b3bb9483-a345-4909-963c-15baac620070"
-					(reference "R312")
 					(unit 1)
 				)
 			)

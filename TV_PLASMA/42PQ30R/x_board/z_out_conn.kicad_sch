@@ -1676,19 +1676,18 @@
 		)
 		(uuid "fd8c8b18-3e9b-4625-bb3b-1713a1a6e425")
 	)
-	(label "Z OUT CONNECTORS"
-		(at 185.42 25.4 180)
+	(text "Z OUT CONNECTORS"
+		(exclude_from_sim no)
+		(at 147.32 22.86 0)
 		(effects
 			(font
-				(face "KiCad Font")
 				(size 5 5)
 				(thickness 0.254)
 				(bold yes)
 				(italic yes)
 			)
-			(justify right bottom)
 		)
-		(uuid "ff311d55-2de2-4461-b82e-e00cbced240e")
+		(uuid "4f66b9e6-af67-4beb-b37c-3e235567f570")
 	)
 	(global_label "Z_OUT"
 		(shape input)

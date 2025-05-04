@@ -3577,19 +3577,18 @@
 		)
 		(uuid "fef0bfce-db48-4a62-bb49-f54a0b16437f")
 	)
-	(label "VZB"
-		(at 146.05 24.13 180)
+	(text "VZB"
+		(exclude_from_sim no)
+		(at 142.24 21.59 0)
 		(effects
 			(font
-				(face "KiCad Font")
 				(size 5 5)
 				(thickness 0.254)
 				(bold yes)
 				(italic yes)
 			)
-			(justify right bottom)
 		)
-		(uuid "2d4db9b2-8bf8-4e20-8906-1c1344e4c733")
+		(uuid "578baed7-fa58-45ee-ad62-885a32ad24bb")
 	)
 	(global_label "5V"
 		(shape input)
@@ -5342,7 +5341,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "67ace61c-baf9-4266-8344-aba1ea6bfb0e")
-		(property "Reference" "C144"
+		(property "Reference" "C149"
 			(at 87.63 104.14 0)
 			(effects
 				(font
@@ -5397,7 +5396,7 @@
 		(instances
 			(project "x_board"
 				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/5833f712-63ee-492f-b888-d285859535d4"
-					(reference "C144")
+					(reference "C149")
 					(unit 1)
 				)
 			)
@@ -6264,7 +6263,7 @@
 				)
 			)
 		)
-		(property "Value" "470k"
+		(property "Value" "47k"
 			(at 104.14 63.5 0)
 			(effects
 				(font
@@ -6671,7 +6670,7 @@
 		(dnp no)
 		(uuid "c3a93c8f-8fea-4b07-96c1-40f842411dae")
 		(property "Reference" "VR8"
-			(at 100.33 88.9 0)
+			(at 111.76 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6680,7 +6679,7 @@
 			)
 		)
 		(property "Value" "100K"
-			(at 101.6 91.44 0)
+			(at 111.76 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6750,7 +6749,7 @@
 				)
 			)
 		)
-		(property "Value" "470k"
+		(property "Value" "47k"
 			(at 104.14 73.66 0)
 			(effects
 				(font
@@ -6810,7 +6809,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cb3ccc45-69c6-4d8c-842a-7f6af14dbf43")
-		(property "Reference" "R18"
+		(property "Reference" "R46"
 			(at 104.14 106.68 0)
 			(effects
 				(font
@@ -6818,7 +6817,7 @@
 				)
 			)
 		)
-		(property "Value" "470k"
+		(property "Value" "47k"
 			(at 104.14 109.22 0)
 			(effects
 				(font
@@ -6863,7 +6862,7 @@
 		(instances
 			(project "x_board"
 				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/5833f712-63ee-492f-b888-d285859535d4"
-					(reference "R18")
+					(reference "R46")
 					(unit 1)
 				)
 			)
@@ -6945,7 +6944,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d9509d08-5360-49a9-9ea2-92274681b351")
-		(property "Reference" "R17"
+		(property "Reference" "R47"
 			(at 104.14 96.52 0)
 			(effects
 				(font
@@ -6953,7 +6952,7 @@
 				)
 			)
 		)
-		(property "Value" "470k"
+		(property "Value" "47k"
 			(at 104.14 99.06 0)
 			(effects
 				(font
@@ -6998,7 +6997,7 @@
 		(instances
 			(project "x_board"
 				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/5833f712-63ee-492f-b888-d285859535d4"
-					(reference "R17")
+					(reference "R47")
 					(unit 1)
 				)
 			)

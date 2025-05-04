@@ -829,7 +829,7 @@
 				)
 			)
 		)
-		(symbol "irf_s21850:S21850"
+		(symbol "S21850_1"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -841,7 +841,7 @@
 					)
 				)
 			)
-			(property "Value" ""
+			(property "Value" "S21850"
 				(at -1.27 -2.54 0)
 				(effects
 					(font
@@ -858,7 +858,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://www.alldatasheet.net/datasheet-pdf/download/578411/IRF/IRS21850SPBF.html"
 				(at -1.27 -2.54 0)
 				(effects
 					(font
@@ -876,7 +876,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "S21850_0_1"
+			(symbol "S21850_1_0_1"
 				(rectangle
 					(start -5.08 0)
 					(end 5.08 -13.97)
@@ -900,7 +900,7 @@
 					)
 				)
 			)
-			(symbol "S21850_1_1"
+			(symbol "S21850_1_1_1"
 				(pin power_in line
 					(at -7.62 -3.81 0)
 					(length 2.54)
@@ -3382,19 +3382,18 @@
 		)
 		(uuid "ffad041d-7991-4ad2-add2-e9b95161d7e2")
 	)
-	(label "Z SUS UP and Z SUS DOWN"
-		(at 199.39 24.13 180)
+	(text "Z SUS UP and Z SUS DOWN"
+		(exclude_from_sim no)
+		(at 146.05 24.13 0)
 		(effects
 			(font
-				(face "KiCad Font")
 				(size 5 5)
 				(thickness 0.254)
 				(bold yes)
 				(italic yes)
 			)
-			(justify right bottom)
 		)
-		(uuid "e39febf7-7a78-4d93-9b90-ebb32317aaca")
+		(uuid "fb390a55-d099-4161-993e-6222474c6d1f")
 	)
 	(global_label "Z_SUS_UP_5V"
 		(shape input)
@@ -4261,6 +4260,92 @@
 		)
 	)
 	(symbol
+		(lib_name "S21850_1")
+		(lib_id "irf_s21850:S21850")
+		(at 87.63 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5877717c-ed9d-44ec-b2ee-fcb2a7a24729")
+		(property "Reference" "IC30"
+			(at 87.63 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "S21850"
+			(at 87.63 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 86.36 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.alldatasheet.net/datasheet-pdf/download/578411/IRF/IRS21850SPBF.html"
+			(at 86.36 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 86.36 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "29398d35-a939-46b9-a011-9c7dfa3b19b9")
+		)
+		(pin "2"
+			(uuid "7d16ee34-9b75-4f1e-8d35-adfc3d2b999d")
+		)
+		(pin "3"
+			(uuid "52002895-c94d-462c-b318-376fefecbef1")
+		)
+		(pin "1"
+			(uuid "0494bebc-10d8-4f49-848e-c944d023521d")
+		)
+		(pin "7"
+			(uuid "29962519-635d-4fd5-81ac-b9fdf34899b2")
+		)
+		(pin "6"
+			(uuid "8b57e5dc-9f02-4dd3-91bc-2d9b000d3a7c")
+		)
+		(pin "8"
+			(uuid "57386d8d-4a93-45fd-a38a-e0e55327180d")
+		)
+		(pin "5"
+			(uuid "0db1a225-066f-4175-8ba1-241f663b8afe")
+		)
+		(instances
+			(project "x_board"
+				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/3807ab5c-9a46-486b-ade4-9abd7bc9a454"
+					(reference "IC30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 128.27 74.93 90)
 		(unit 1)
@@ -4322,91 +4407,6 @@
 			(project "x_board"
 				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/3807ab5c-9a46-486b-ade4-9abd7bc9a454"
 					(reference "R253")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "irf_s21850:S21850")
-		(at 87.63 60.96 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "69d18c80-353d-40ec-82e4-1a44656ca64e")
-		(property "Reference" "IC30"
-			(at 87.63 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "S21850"
-			(at 87.63 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 86.36 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 86.36 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "8"
-			(uuid "e04a4eba-60f0-4b1b-a742-b001ea37e680")
-		)
-		(pin "5"
-			(uuid "9619be75-e276-4cc0-a13b-12babfbea139")
-		)
-		(pin "1"
-			(uuid "10e1b717-c007-4106-a0d1-39f712b8a238")
-		)
-		(pin "4"
-			(uuid "252580ac-463a-4cf1-aab0-598d7471005d")
-		)
-		(pin "3"
-			(uuid "f897f6ac-ad21-439d-a218-2653896789ee")
-		)
-		(pin "2"
-			(uuid "dc3b4fa2-5e33-49bd-b59c-23011d38e2b4")
-		)
-		(pin "6"
-			(uuid "ea77c6c2-bd26-4ad1-9f1e-e63c131c84bc")
-		)
-		(pin "7"
-			(uuid "12325f6c-1938-4a1c-a655-df8b3c64328e")
-		)
-		(instances
-			(project ""
-				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/3807ab5c-9a46-486b-ade4-9abd7bc9a454"
-					(reference "IC30")
 					(unit 1)
 				)
 			)
@@ -5542,6 +5542,92 @@
 		)
 	)
 	(symbol
+		(lib_name "S21850_1")
+		(lib_id "irf_s21850:S21850")
+		(at 90.17 109.22 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ac3e8962-a8b4-498e-9a0c-8f2a53443de9")
+		(property "Reference" "IC32"
+			(at 90.17 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "S21850"
+			(at 90.17 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 88.9 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.alldatasheet.net/datasheet-pdf/download/578411/IRF/IRS21850SPBF.html"
+			(at 88.9 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 88.9 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "ebabf557-42d6-4db9-ac40-dc6cf0c5567f")
+		)
+		(pin "2"
+			(uuid "6fd94777-c6c2-4105-978c-b83cad7f6c5c")
+		)
+		(pin "3"
+			(uuid "361d84b4-57bc-41cf-8d28-3cb15b768647")
+		)
+		(pin "1"
+			(uuid "b22217b8-d01f-4127-acd3-80385009ab33")
+		)
+		(pin "7"
+			(uuid "8c7e6cf6-b5a7-47a0-966a-8d3813a2dbdd")
+		)
+		(pin "6"
+			(uuid "6f50c622-9cb0-4094-b971-4d140c08d74f")
+		)
+		(pin "8"
+			(uuid "739e941d-a7b5-435b-82d3-877874872dff")
+		)
+		(pin "5"
+			(uuid "b8bbafac-b1c4-45c6-9ceb-20851405baa5")
+		)
+		(instances
+			(project "x_board"
+				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/3807ab5c-9a46-486b-ade4-9abd7bc9a454"
+					(reference "IC32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:Q_NIGBT_GCE")
 		(at 143.51 74.93 0)
 		(unit 1)
@@ -5679,91 +5765,6 @@
 			(project "x_board"
 				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/3807ab5c-9a46-486b-ade4-9abd7bc9a454"
 					(reference "C116")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "irf_s21850:S21850")
-		(at 90.17 109.22 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b464070c-b48b-494c-a7db-3a4e94345b88")
-		(property "Reference" "IC32"
-			(at 90.17 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "S21850"
-			(at 90.17 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 88.9 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 88.9 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 88.9 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "8"
-			(uuid "e376d195-58bb-48b6-9e3b-78975e316f91")
-		)
-		(pin "5"
-			(uuid "efea5040-158c-4b66-b98b-41e25b293deb")
-		)
-		(pin "1"
-			(uuid "906a7c13-db58-4ce6-b1f0-3223e9ba2e91")
-		)
-		(pin "4"
-			(uuid "ac70ace8-f5f4-46d3-b5d7-edef79d7138d")
-		)
-		(pin "3"
-			(uuid "8e8e7414-0f42-4227-a72d-398a1d17f46e")
-		)
-		(pin "2"
-			(uuid "10a0ac75-841f-4b90-b912-5cee9275aca2")
-		)
-		(pin "6"
-			(uuid "c39b95a6-ad82-4a6d-bfaf-61241fab890d")
-		)
-		(pin "7"
-			(uuid "9cb2ec49-1a9f-438b-b73c-4de1cfaf2a58")
-		)
-		(instances
-			(project "x_board"
-				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/3807ab5c-9a46-486b-ade4-9abd7bc9a454"
-					(reference "IC32")
 					(unit 1)
 				)
 			)
@@ -5983,7 +5984,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c42f73dd-21f5-451b-a13b-7642cba1be6a")
-		(property "Reference" "C180"
+		(property "Reference" "C2"
 			(at 31.75 108.7881 0)
 			(effects
 				(font
@@ -6037,7 +6038,7 @@
 		(instances
 			(project ""
 				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/3807ab5c-9a46-486b-ade4-9abd7bc9a454"
-					(reference "C180")
+					(reference "C2")
 					(unit 1)
 				)
 			)

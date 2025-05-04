@@ -1570,6 +1570,19 @@
 		)
 		(uuid "7727a66f-e9aa-4f96-95e5-35b111de3abf")
 	)
+	(text "INPUT CONNECTORS"
+		(exclude_from_sim no)
+		(at 154.94 20.32 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 1)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "792af2e8-08d6-46e5-8884-cc34437eecf5")
+	)
 	(text "P3\n\n1- ER_COM\n2- ER_COM\n3- NC\n4- GND\n5- GND\n6- NC\n7- +VS\n8- +VS"
 		(exclude_from_sim no)
 		(at 177.8 59.69 0)
@@ -1580,20 +1593,6 @@
 			(justify left)
 		)
 		(uuid "b15cefb6-b846-4f2d-be00-bade2852f1e3")
-	)
-	(label "INPUT CONNECTORS"
-		(at 196.85 27.94 180)
-		(effects
-			(font
-				(face "KiCad Font")
-				(size 5 5)
-				(thickness 0.254)
-				(bold yes)
-				(italic yes)
-			)
-			(justify right bottom)
-		)
-		(uuid "bff885eb-080a-4864-85ab-d5f3e6f94810")
 	)
 	(global_label "Z_BIAS"
 		(shape output)
