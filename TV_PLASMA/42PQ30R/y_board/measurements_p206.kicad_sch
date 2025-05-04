@@ -1,0 +1,61 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "2b026634-374f-4af9-94ca-5127f4703be4")
+	(paper "A4")
+	(title_block
+		(title "Y BOARD LG PLASMA TV PANEL")
+		(date "2025-03-24")
+		(rev "1.0")
+		(comment 1 "Author: Fábio Pereira da Silva")
+		(comment 2 "Measurements P206")
+	)
+	(lib_symbols)
+	(text "\n\nFoward bias (V)\n1- OL\n2- OL\n3- OL\n4- 0\n5- 0\n6- OL\n7- OL\n8- OL"
+		(exclude_from_sim no)
+		(at 185.42 83.82 0)
+		(effects
+			(font
+				(size 4 4)
+			)
+			(justify left)
+		)
+		(uuid "33478e01-1a2d-44e0-a33d-da91543f0fc2")
+	)
+	(text "\n\nReverse bias (V)\n1- 0.769\n2- 0.769\n3- OL\n4- 0\n5- 0\n6- OL\n7- 0.550\n8- 0.550"
+		(exclude_from_sim no)
+		(at 92.71 83.82 0)
+		(effects
+			(font
+				(size 4 4)
+			)
+			(justify left)
+		)
+		(uuid "3409f10f-ff85-4011-9ac9-4b3986683ac3")
+	)
+	(text "Measurements (P206)"
+		(exclude_from_sim no)
+		(at 154.94 22.86 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 0.6)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "d21aa5ed-d2fe-4198-96fc-6fb4dff3346b")
+	)
+	(text "P206\n\nRes (OHMS)\n1- 110k\n2- 110k\n3- OL\n4- 0\n5- 0\n6- OL\n7- OL\n8- OL"
+		(exclude_from_sim no)
+		(at 34.29 83.82 0)
+		(effects
+			(font
+				(size 4 4)
+			)
+			(justify left)
+		)
+		(uuid "f79d757f-79da-4701-8c66-272ce76c24a8")
+	)
+)

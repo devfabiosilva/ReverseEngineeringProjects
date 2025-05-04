@@ -642,6 +642,30 @@
     [
       "2a2a0bbb-0850-4dd2-93e0-99a69e22cab6",
       "Output Control (Part 4 of 4)"
+    ],
+    [
+      "b3442f41-a21b-4827-af49-6239fdafcd65",
+      "Measurements P201"
+    ],
+    [
+      "e0a3d053-cdf2-4341-82b8-af840e0c8bee",
+      "Measurements P206"
+    ],
+    [
+      "66471968-ef9f-40db-91b8-66857cdfcbd1",
+      "Measurements P101"
+    ],
+    [
+      "b5610158-006e-4b2f-a4f8-ed0b2093294b",
+      "Measurements P202"
+    ],
+    [
+      "e6dd38b8-b84a-4811-8827-bc0387ff507b",
+      "Measurements P207"
+    ],
+    [
+      "1cd93bfd-94d4-4d0f-8f6d-f7322bfa8ee6",
+      "Measurements P203, P208 and P205"
     ]
   ],
   "text_variables": {}

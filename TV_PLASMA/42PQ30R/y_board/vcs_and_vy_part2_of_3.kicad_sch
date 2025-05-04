@@ -3132,7 +3132,7 @@
 	)
 	(text "VSC and VY (Part 2 of 3)"
 		(exclude_from_sim no)
-		(at 179.07 20.32 0)
+		(at 147.32 20.32 0)
 		(effects
 			(font
 				(size 5 5)

@@ -1891,7 +1891,7 @@
 		)
 	)
 	(global_label "OE"
-		(shape passive)
+		(shape input)
 		(at 74.93 116.84 180)
 		(fields_autoplaced yes)
 		(effects
@@ -1902,7 +1902,7 @@
 		)
 		(uuid "8e63e293-9334-492d-8545-dda37f0cf1ae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 70.5766 116.84 0)
+			(at 69.4653 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)

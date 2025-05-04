@@ -1,0 +1,106 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "0688f694-83a4-465d-ad56-82061da3a9e6")
+	(paper "A4")
+	(title_block
+		(title "Y BOARD LG PLASMA TV PANEL")
+		(date "2025-03-24")
+		(rev "1.0")
+		(comment 1 "Author: Fábio Pereira da Silva")
+		(comment 2 "Measurements (P203, P208 and P205)")
+	)
+	(lib_symbols)
+	(text "2-> Y OUT related to +VS\n=======================================\nRes (OHMS)\n-"
+		(exclude_from_sim no)
+		(at 27.94 106.68 0)
+		(effects
+			(font
+				(size 4 4)
+			)
+			(justify left)
+		)
+		(uuid "16b762c5-6a36-4a1a-aa97-21caec96cb58")
+	)
+	(text "Measurements (P203, P208 and P205)"
+		(exclude_from_sim no)
+		(at 151.13 20.32 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 0.6)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "241af11a-c0af-4988-a984-3a05aa746c76")
+	)
+	(text "1-> Y OUT related to Ground\n=======================================\nRes (OHMS)\n210k"
+		(exclude_from_sim no)
+		(at 30.48 60.96 0)
+		(effects
+			(font
+				(size 4 4)
+			)
+			(justify left)
+		)
+		(uuid "b1f15f2c-3c5c-4ec1-b9a9-07ef3aded41a")
+	)
+	(text "\n\nReverse bias (V)\nOL"
+		(exclude_from_sim no)
+		(at 88.9 60.96 0)
+		(effects
+			(font
+				(size 4 4)
+			)
+			(justify left)
+		)
+		(uuid "b8bbacc1-dc15-4fe7-96a9-474e40f94299")
+	)
+	(text "\n\nFoward bias (V)\nOL"
+		(exclude_from_sim no)
+		(at 153.67 60.96 0)
+		(effects
+			(font
+				(size 4 4)
+			)
+			(justify left)
+		)
+		(uuid "ba8a3e15-1194-4604-bb30-1ecc8e4bfdab")
+	)
+	(text "\n\nFoward bias (Red point in VS and Black point in Y Out) (V)\nOL"
+		(exclude_from_sim no)
+		(at 27.94 139.7 0)
+		(effects
+			(font
+				(size 4 4)
+			)
+			(justify left)
+		)
+		(uuid "d8273815-bd7e-419b-b620-bd9894591379")
+	)
+	(text "\n\nReverse bias (Black point in VS and Red point in Y Out) (V)\n0.402"
+		(exclude_from_sim no)
+		(at 27.94 121.92 0)
+		(effects
+			(font
+				(size 4 4)
+			)
+			(justify left)
+		)
+		(uuid "e5dce6fc-96d2-4293-a602-7858471367b9")
+	)
+	(text "NOTES:\n======\n\n- All pins are Y Out connection (Floating ground)"
+		(exclude_from_sim no)
+		(at 125.73 36.83 0)
+		(effects
+			(font
+				(size 3 3)
+				(color 255 0 2 1)
+			)
+			(justify left)
+		)
+		(uuid "f13d8b3d-8d79-4395-9fa4-a7b499fdf96a")
+	)
+)

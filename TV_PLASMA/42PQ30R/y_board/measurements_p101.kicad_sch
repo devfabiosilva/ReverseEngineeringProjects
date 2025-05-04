@@ -1,0 +1,61 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "07e1acc1-4c7d-436c-9352-4e348181d492")
+	(paper "A4")
+	(title_block
+		(title "Y BOARD LG PLASMA TV PANEL")
+		(date "2025-03-24")
+		(rev "1.0")
+		(comment 1 "Author: Fábio Pereira da Silva")
+		(comment 2 "Measurements (P101)")
+	)
+	(lib_symbols)
+	(text "\n\nReverse bias (V)\n1- 0.495\n2- 0.495\n3- 0.503\n4- 0.503\n5- 0.502\n6- 0.503\n7- 0.503\n8- 0\n9- 0\n10- 0\n11- 0\n12- 0.658\n13- 0.614\n14- 0.659\n15- 0.650\n16- 0.659\n17- 0.650\n18- 0.660\n19- 0.651\n20- 0.660\n21- 0.657\n22- 0.660\n23- 0.650\n24- 0.660\n25- 0.650\n26- 0.660\n27- 0.650\n28- 0.617\n29- 0.649\n30- 0"
+		(exclude_from_sim no)
+		(at 74.93 110.49 0)
+		(effects
+			(font
+				(size 3 3)
+			)
+			(justify left)
+		)
+		(uuid "713f817f-521d-4ae6-8cdf-9dae847f08ef")
+	)
+	(text "Measurements (P101)"
+		(exclude_from_sim no)
+		(at 154.94 20.32 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 0.6)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "90443a18-6fd9-451b-a502-3d8d2e1d64a6")
+	)
+	(text "\n\nFoward bias (V)\n1- 0.945\n2- 0.944\n3- 1.089\n4- 1.090\n5- 1.089\n6- 1.089\n7- 1.089\n8- 0\n9- 0\n10- 0\n11- 0\n12- OL\n13- 1.804\n14- OL\n15- 2.723\n16- OL\n17- 2.722\n18- OL\n19- 2.724\n20- OL\n21- OL\n22- OL\n23- 2.720\n24- OL\n25- 2.718\n26- OL\n27- 2.723\n28- 2.926\n29- 2.720\n30- 0"
+		(exclude_from_sim no)
+		(at 135.89 111.76 0)
+		(effects
+			(font
+				(size 3 3)
+			)
+			(justify left)
+		)
+		(uuid "ab75ac1c-6e65-420c-bff7-a734ea026c07")
+	)
+	(text "P101\n\nRes (OHMS)\n1- 917\n2- 918\n3- 2.264k\n4- 2.240k\n5- 2.220k\n6- 2.240k\n7- 2.242k\n8- 0\n9- 0\n10- 0\n11- 0\n12- OL\n13- 3.2k\n14- OL\n15- 4.699k\n16- OL\n17- 4.695k\n18- OL\n19- 4.708k\n20- OL\n21- OL\n22- OL\n23- 4.689k\n24- OL\n25- 4.676k\n26- OL\n27- 4.699k\n28- 7.7k\n29- 4.685k\n30- 0"
+		(exclude_from_sim no)
+		(at 22.86 111.76 0)
+		(effects
+			(font
+				(size 3 3)
+			)
+			(justify left)
+		)
+		(uuid "d1479c9e-e380-4793-9df7-ee6167222dbf")
+	)
+)
