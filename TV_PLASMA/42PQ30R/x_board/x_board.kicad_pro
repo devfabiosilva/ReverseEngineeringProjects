@@ -414,6 +414,18 @@
     [
       "703071da-4434-417f-aac1-959b8d8aae32",
       "Z_OUT_CONNECTIONS"
+    ],
+    [
+      "fc8380c1-ea3b-4e1f-83b3-8e2fcd55b72f",
+      "Measurements (P3)"
+    ],
+    [
+      "1fe1fa34-7d02-4f2e-bb56-2a20afcb32dc",
+      "Measurements (P2)"
+    ],
+    [
+      "5401e384-87c0-4618-b5bd-d5ed7e3d9310",
+      "Measurements (P6 and P7)"
     ]
   ],
   "text_variables": {}

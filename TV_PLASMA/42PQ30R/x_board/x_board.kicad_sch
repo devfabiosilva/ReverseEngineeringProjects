@@ -2153,6 +2153,44 @@
 		)
 	)
 	(sheet
+		(at 300.99 25.4)
+		(size 22.86 13.97)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1fe1fa34-7d02-4f2e-bb56-2a20afcb32dc")
+		(property "Sheetname" "Measurements (P2)"
+			(at 300.99 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "measurements_p2.kicad_sch"
+			(at 300.99 39.9546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "x_board"
+				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd"
+					(page "10")
+				)
+			)
+		)
+	)
+	(sheet
 		(at -36.83 43.18)
 		(size 25.4 20.32)
 		(fields_autoplaced yes)
@@ -2262,6 +2300,44 @@
 			(project "x_board"
 				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 302.26 54.61)
+		(size 22.86 13.97)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5401e384-87c0-4618-b5bd-d5ed7e3d9310")
+		(property "Sheetname" "Measurements (P6 and P7)"
+			(at 302.26 53.8984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "measurements_p6_and_p7.kicad_sch"
+			(at 302.26 69.1646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "x_board"
+				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd"
+					(page "11")
 				)
 			)
 		)
@@ -2414,6 +2490,44 @@
 			(project "x_board"
 				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd"
 					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 300.99 2.54)
+		(size 25.4 15.24)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "fc8380c1-ea3b-4e1f-83b3-8e2fcd55b72f")
+		(property "Sheetname" "Measurements (P3)"
+			(at 300.99 1.8284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "measurements_p3.kicad_sch"
+			(at 300.99 18.3646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "x_board"
+				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd"
+					(page "9")
 				)
 			)
 		)

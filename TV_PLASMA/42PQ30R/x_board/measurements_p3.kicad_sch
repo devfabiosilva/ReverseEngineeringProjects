@@ -1,0 +1,61 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "33b00513-478e-4895-a08b-08c61aa0ddc7")
+	(paper "A4")
+	(title_block
+		(title "X BOARD LG PLASMA TV PANEL")
+		(date "2025-04-03")
+		(rev "1.0")
+		(comment 1 "Author: Fábio Pereira da Silva")
+		(comment 2 "Measurements (P3)")
+	)
+	(lib_symbols)
+	(text "Measurements (P3)"
+		(exclude_from_sim no)
+		(at 142.24 21.59 0)
+		(effects
+			(font
+				(size 5 5)
+				(thickness 0.6)
+				(bold yes)
+				(italic yes)
+			)
+		)
+		(uuid "1688616b-e76b-41c3-b5c8-d83f3c9f31ee")
+	)
+	(text "\n\nFoward bias (V)\n1- OL\n2- OL\n3- OL\n4- 0\n5- 0\n6- OL\n7- OL\n8- OL"
+		(exclude_from_sim no)
+		(at 179.07 87.63 0)
+		(effects
+			(font
+				(size 4 4)
+			)
+			(justify left)
+		)
+		(uuid "2acd6fae-16d8-4cb3-81d7-2bc69a92a3a2")
+	)
+	(text "\n\nReverse bias (V)\n1- 0.501\n2- 0.501\n3- OL\n4- 0\n5- 0\n6- OL\n7- 0.744\n8- 0.744"
+		(exclude_from_sim no)
+		(at 114.3 87.63 0)
+		(effects
+			(font
+				(size 4 4)
+			)
+			(justify left)
+		)
+		(uuid "53e94614-9f8e-4f36-a5cb-a61a62a472ef")
+	)
+	(text "P3\n\nRes (OHMS)\n1- 246k\n2- 246k\n3- OL\n4- 0\n5- 0\n6- OL\n7- 127k\n8- 127k"
+		(exclude_from_sim no)
+		(at 55.88 87.63 0)
+		(effects
+			(font
+				(size 4 4)
+			)
+			(justify left)
+		)
+		(uuid "fd60a832-66ec-43c9-bf28-ba28e5caf3ba")
+	)
+)
