@@ -5299,7 +5299,7 @@
 		(dnp no)
 		(uuid "7302b664-6516-498e-997c-c077796eda8f")
 		(property "Reference" "C219"
-			(at 54.61 74.93 0)
+			(at 53.34 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5307,14 +5307,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 63.5 73.6662 0)
+		(property "Value" "1uF"
+			(at 54.61 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""

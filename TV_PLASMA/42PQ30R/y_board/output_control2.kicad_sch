@@ -2640,7 +2640,7 @@
 		(dnp no)
 		(uuid "20dfaa8f-26d3-447b-a946-7557226759f0")
 		(property "Reference" "C217"
-			(at 118.11 128.27 0)
+			(at 118.11 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2648,14 +2648,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "156nF"
 			(at 118.11 128.2762 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -2710,7 +2709,7 @@
 		(dnp no)
 		(uuid "26a74f85-8b39-4367-9261-17408ac5fa6f")
 		(property "Reference" "C215"
-			(at 148.59 127 0)
+			(at 149.86 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2718,14 +2717,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 151.13 130.8162 0)
+		(property "Value" "154nF"
+			(at 149.86 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -2847,7 +2845,7 @@
 		(dnp no)
 		(uuid "3179d487-36ea-455c-9125-cc699480e7e9")
 		(property "Reference" "C216"
-			(at 158.75 125.73 0)
+			(at 157.48 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2855,14 +2853,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 160.02 130.8162 0)
+		(property "Value" "154nF"
+			(at 157.48 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -2992,14 +2989,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 153.67 85.0962 0)
+		(property "Value" "1uF"
+			(at 144.78 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -3281,7 +3277,7 @@
 		(dnp no)
 		(uuid "65231cfd-87f1-4187-86b9-81f9c1b03366")
 		(property "Reference" "C523"
-			(at 200.66 67.31 0)
+			(at 210.82 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3289,14 +3285,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "1uF"
 			(at 210.82 69.8562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -3351,7 +3346,7 @@
 		(dnp no)
 		(uuid "6be7b25c-b227-4b4c-a800-698a6c9974cc")
 		(property "Reference" "C212"
-			(at 140.97 127 0)
+			(at 140.97 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3359,14 +3354,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 143.51 130.8162 0)
+		(property "Value" "156nF"
+			(at 140.97 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -3786,14 +3780,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 129.54 129.5462 0)
+		(property "Value" "152nF"
+			(at 129.54 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
