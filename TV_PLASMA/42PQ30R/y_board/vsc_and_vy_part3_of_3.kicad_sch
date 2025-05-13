@@ -4506,7 +4506,7 @@
 		(dnp no)
 		(uuid "5eedfabb-84ab-4c0e-8279-4c840a69eda5")
 		(property "Reference" "C306"
-			(at 199.39 149.86 0)
+			(at 200.66 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4514,14 +4514,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 190.5 149.8538 0)
+		(property "Value" "100nF"
+			(at 201.93 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
