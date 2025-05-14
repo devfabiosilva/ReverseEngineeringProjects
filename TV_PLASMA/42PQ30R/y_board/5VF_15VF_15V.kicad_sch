@@ -2273,6 +2273,12 @@
 		(uuid "4617e683-534c-4773-9d01-21a551d7b8aa")
 	)
 	(junction
+		(at 204.47 50.8)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4984d877-e28d-4780-b89c-ec1b7943db4d")
+	)
+	(junction
 		(at 204.47 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2576,6 +2582,16 @@
 	)
 	(wire
 		(pts
+			(xy 204.47 50.8) (xy 219.71 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c0ffd3f-7218-4131-8398-06036d8129d5")
+	)
+	(wire
+		(pts
 			(xy 191.77 76.2) (xy 204.47 76.2)
 		)
 		(stroke
@@ -2776,7 +2792,7 @@
 	)
 	(wire
 		(pts
-			(xy 34.29 50.8) (xy 219.71 50.8)
+			(xy 34.29 50.8) (xy 204.47 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3063,6 +3079,16 @@
 			(type default)
 		)
 		(uuid "71efa006-af15-40de-92cf-83ae605922ee")
+	)
+	(wire
+		(pts
+			(xy 204.47 55.88) (xy 204.47 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "753e8117-648f-41e7-98d5-9b572f8ddfef")
 	)
 	(wire
 		(pts
@@ -3633,6 +3659,16 @@
 			(type default)
 		)
 		(uuid "cfc86f3f-c25a-43d8-b4bf-8e32137bafca")
+	)
+	(wire
+		(pts
+			(xy 204.47 60.96) (xy 204.47 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cfdc8424-6470-4e28-9bd4-09e645ded8b9")
 	)
 	(wire
 		(pts
@@ -4628,6 +4664,75 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
+		(at 204.47 58.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "39890ae7-d58a-40bc-b2b7-c61dbd68780b")
+		(property "Reference" "C308"
+			(at 207.01 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1uF"
+			(at 207.01 59.6962 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 204.47 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 204.47 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor, small symbol"
+			(at 204.47 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "05ba06f4-919e-4f1a-b91f-ae2c4cb14483")
+		)
+		(pin "1"
+			(uuid "72b44cc6-c1fa-4c4e-ba5c-4f7d297ac5d6")
+		)
+		(instances
+			(project "y_board"
+				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/76b17981-32d8-4a0e-82cc-bb657e39681a"
+					(reference "C308")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C_Small")
 		(at 68.58 113.03 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5284,6 +5389,73 @@
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/76b17981-32d8-4a0e-82cc-bb657e39681a"
 					(reference "D506")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:Earth")
+		(at 204.47 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6f355ccc-0780-4282-a3a0-46f82d90bf4d")
+		(property "Reference" "#PWR41"
+			(at 204.47 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "Earth"
+			(at 204.47 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 204.47 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 204.47 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"Earth\""
+			(at 204.47 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5f394868-4f19-47c4-b729-6f7a1b050cbb")
+		)
+		(instances
+			(project "y_board"
+				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/76b17981-32d8-4a0e-82cc-bb657e39681a"
+					(reference "#PWR41")
 					(unit 1)
 				)
 			)
