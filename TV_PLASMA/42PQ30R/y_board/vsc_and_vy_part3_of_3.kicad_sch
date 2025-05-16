@@ -5922,7 +5922,7 @@
 		(dnp no)
 		(uuid "ff7862ae-dde9-4bb5-842a-0d81d7cf0fa3")
 		(property "Reference" "C305"
-			(at 223.52 149.86 0)
+			(at 224.79 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5930,14 +5930,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 214.63 149.8538 0)
+		(property "Value" "100nF"
+			(at 226.06 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
