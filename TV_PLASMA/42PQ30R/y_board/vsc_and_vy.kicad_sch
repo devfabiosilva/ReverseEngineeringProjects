@@ -6349,14 +6349,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 106.68 104.1338 0)
+		(property "Value" "1uF"
+			(at 106.68 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -7342,7 +7341,7 @@
 		(dnp no)
 		(uuid "b07023a1-713f-47ad-84c2-1bd53b613be8")
 		(property "Reference" "C518"
-			(at 44.45 171.45 0)
+			(at 41.91 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7350,14 +7349,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 43.18 172.7138 0)
+		(property "Value" "10nF"
+			(at 41.91 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""

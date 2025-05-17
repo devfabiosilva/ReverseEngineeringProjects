@@ -2417,14 +2417,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 87.63 58.4138 0)
+		(property "Value" "1uF"
+			(at 87.63 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -2554,7 +2553,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.2k"
+		(property "Value" "4.7k"
 			(at 162.56 111.76 0)
 			(effects
 				(font
@@ -2623,14 +2622,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 104.14 59.6838 0)
+		(property "Value" "1nF"
+			(at 113.03 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -2693,7 +2691,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.2k"
+		(property "Value" "4.7k"
 			(at 189.23 127 0)
 			(effects
 				(font
@@ -2762,7 +2760,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.2k"
+		(property "Value" "4.7k"
 			(at 218.44 93.98 0)
 			(effects
 				(font
@@ -2900,7 +2898,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.2k"
+		(property "Value" "4.7k"
 			(at 224.79 107.95 0)
 			(effects
 				(font
@@ -3036,7 +3034,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.2k"
+		(property "Value" "4.7k"
 			(at 99.06 60.96 0)
 			(effects
 				(font
@@ -3097,7 +3095,7 @@
 		(dnp no)
 		(uuid "c145b2b5-6ad4-4d58-a5e3-41b2b3285668")
 		(property "Reference" "R123"
-			(at 210.82 76.2 0)
+			(at 201.93 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3105,8 +3103,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.2k"
-			(at 210.82 78.74 0)
+		(property "Value" "4.7k"
+			(at 203.2 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3174,7 +3172,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.2k"
+		(property "Value" "4.7k"
 			(at 162.56 128.27 0)
 			(effects
 				(font
