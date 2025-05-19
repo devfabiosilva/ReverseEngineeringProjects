@@ -5229,7 +5229,7 @@
 		(dnp no)
 		(uuid "62e7bb89-2be2-4235-8e81-c25610445481")
 		(property "Reference" "C307"
-			(at 82.55 99.06 0)
+			(at 82.55 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5237,14 +5237,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 91.44 97.7962 0)
+		(property "Value" "1uF"
+			(at 82.55 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
