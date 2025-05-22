@@ -5860,14 +5860,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 102.87 99.0538 0)
+		(property "Value" "1uF"
+			(at 111.76 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
