@@ -3843,7 +3843,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0f2bf3cd-3550-4ed9-a355-5d13ee0f3191")
-		(property "Reference" "D8"
+		(property "Reference" "D2"
 			(at 227.33 96.52 0)
 			(effects
 				(font
@@ -3914,7 +3914,7 @@
 		(instances
 			(project "x_board"
 				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/5833f712-63ee-492f-b888-d285859535d4"
-					(reference "D8")
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -5341,7 +5341,7 @@
 		(dnp no)
 		(uuid "67ace61c-baf9-4266-8344-aba1ea6bfb0e")
 		(property "Reference" "C149"
-			(at 87.63 104.14 0)
+			(at 85.09 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5349,14 +5349,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 96.52 102.8762 0)
+		(property "Value" "100nF"
+			(at 85.09 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -5681,7 +5680,7 @@
 		(dnp no)
 		(uuid "7b751bb7-1942-4870-9764-c4a346523273")
 		(property "Reference" "C11"
-			(at 256.54 77.47 0)
+			(at 264.16 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5689,14 +5688,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "127nF"
 			(at 264.16 80.0162 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -5901,14 +5899,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 184.15 62.2362 0)
+		(property "Value" "470 nF"
+			(at 171.45 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -6098,7 +6095,7 @@
 		(dnp no)
 		(uuid "a70591f5-203c-4fdc-8dec-c164ebd32e3b")
 		(property "Reference" "C4"
-			(at 234.95 118.11 0)
+			(at 242.57 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6106,14 +6103,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "47uF/25V"
 			(at 242.57 120.6562 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
