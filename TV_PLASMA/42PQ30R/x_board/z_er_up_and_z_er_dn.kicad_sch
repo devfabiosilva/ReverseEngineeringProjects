@@ -5377,14 +5377,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 147.3262 74.93 0)
+		(property "Value" "1uF"
+			(at 143.51 78.74 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -5401,6 +5400,8 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
 				)
 				(hide yes)
 			)
@@ -5651,14 +5652,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "1uF"
 			(at 205.74 58.4262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -8698,14 +8698,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
+		(property "Value" "1uF"
 			(at 196.85 58.4262 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -8768,14 +8767,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 147.3262 81.28 0)
+		(property "Value" "1uF"
+			(at 144.78 88.9 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
