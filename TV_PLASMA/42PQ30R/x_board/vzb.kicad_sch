@@ -12,6 +12,224 @@
 		(comment 2 "VZB")
 	)
 	(lib_symbols
+		(symbol "3411918_1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at 0 1.016 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "3411918_1_0_1"
+				(rectangle
+					(start -6.35 0)
+					(end 6.35 -15.24)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -5.08 -1.27)
+					(radius 0.5)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "3411918_1_1_1"
+				(pin free line
+					(at -8.89 -3.81 0)
+					(length 2.54)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -8.89 -6.35 0)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -8.89 -8.89 0)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin free line
+					(at -8.89 -11.43 0)
+					(length 2.54)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 8.89 -11.43 180)
+					(length 2.54)
+					(name "GND"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin output line
+					(at 8.89 -8.89 180)
+					(length 2.54)
+					(name "Vo"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin free line
+					(at 8.89 -6.35 180)
+					(length 2.54)
+					(name "NC"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin power_in line
+					(at 8.89 -3.81 180)
+					(length 2.54)
+					(name "Vcc"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
 		(symbol "Device:C_Polarized_Small_US"
 			(pin_numbers hide)
 			(pin_names
@@ -1408,224 +1626,6 @@
 				)
 			)
 		)
-		(symbol "irf_s21850:3411918"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "U"
-				(at 0 1.016 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "3411918_0_1"
-				(rectangle
-					(start -6.35 0)
-					(end 6.35 -15.24)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center -5.08 -1.27)
-					(radius 0.5)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "3411918_1_1"
-				(pin free line
-					(at -8.89 -3.81 0)
-					(length 2.54)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -8.89 -6.35 0)
-					(length 2.54)
-					(name "A"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -8.89 -8.89 0)
-					(length 2.54)
-					(name "K"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin free line
-					(at -8.89 -11.43 0)
-					(length 2.54)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 8.89 -11.43 180)
-					(length 2.54)
-					(name "GND"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "5"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive inverted
-					(at 8.89 -8.89 180)
-					(length 2.54)
-					(name "Vo"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "6"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin free line
-					(at 8.89 -6.35 180)
-					(length 2.54)
-					(name "NC"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "7"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin power_in line
-					(at 8.89 -3.81 180)
-					(length 2.54)
-					(name "Vcc"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "8"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "power:Earth"
 			(power)
 			(pin_numbers hide)
@@ -1784,12 +1784,6 @@
 		(uuid "131e3104-5072-4cd6-897a-cd04874feed4")
 	)
 	(junction
-		(at 167.64 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "134b5efc-ead3-406e-990a-0f178c180c47")
-	)
-	(junction
 		(at 240.03 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1920,6 +1914,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8856bdb1-1851-4594-bccb-9b5382e99c27")
+	)
+	(junction
+		(at 167.64 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "890a10ac-7aa8-45c0-80e6-ae1a46375690")
 	)
 	(junction
 		(at 173.99 92.71)
@@ -4964,6 +4964,93 @@
 		)
 	)
 	(symbol
+		(lib_name "3411918_1")
+		(lib_id "irf_s21850:3411918")
+		(at 187.96 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5470b0d7-3a67-4cf7-acc1-673094024008")
+		(property "Reference" "IC4"
+			(at 187.96 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Unknown IC"
+			(at 187.96 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 187.96 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 187.96 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 187.96 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "8"
+			(uuid "e451f2f3-55d9-4c07-970a-12b504f12fb4")
+		)
+		(pin "6"
+			(uuid "9246e29b-d18b-449b-8d9b-955b486bd63f")
+		)
+		(pin "2"
+			(uuid "57c4cb91-b491-4b3b-937a-8c524c5428b1")
+		)
+		(pin "1"
+			(uuid "fd0454a8-a07f-4227-a1a5-c6b211467ad5")
+		)
+		(pin "5"
+			(uuid "fee84383-d59b-4ec2-8abe-8aaaffc2ac47")
+		)
+		(pin "3"
+			(uuid "0b5cdea6-f7bd-49e3-9760-9f12327a183e")
+		)
+		(pin "7"
+			(uuid "a8175f2e-22b9-4242-997c-1c90d81454ea")
+		)
+		(pin "4"
+			(uuid "8fcfc131-9d43-464e-b454-9998fdf7af35")
+		)
+		(instances
+			(project ""
+				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/5833f712-63ee-492f-b888-d285859535d4"
+					(reference "IC4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 64.77 71.12 180)
 		(unit 1)
@@ -5026,91 +5113,6 @@
 			(project "x_board"
 				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/5833f712-63ee-492f-b888-d285859535d4"
 					(reference "R42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "irf_s21850:3411918")
-		(at 187.96 113.03 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "5ae677ee-927b-43da-bb4e-93b8823e3914")
-		(property "Reference" "IC4"
-			(at 187.96 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Unknown IC"
-			(at 187.96 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 187.96 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 187.96 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 187.96 113.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "c5480538-c5e0-4562-b974-71f3c68d0105")
-		)
-		(pin "7"
-			(uuid "4397590b-bdd5-46ac-9222-ee4594ac9e09")
-		)
-		(pin "2"
-			(uuid "bc8ab88b-3965-49b2-90c1-b8005142ce7a")
-		)
-		(pin "8"
-			(uuid "b6709c4b-61f0-433b-aa10-f3d788f23c6e")
-		)
-		(pin "4"
-			(uuid "e8f55c10-80e9-4de9-9a1c-8ed0f6aa9f74")
-		)
-		(pin "5"
-			(uuid "ea966d97-c08c-4e71-b4b7-726d3195c184")
-		)
-		(pin "6"
-			(uuid "b57b3154-6bde-48d1-a43d-a1ead9c041ee")
-		)
-		(pin "1"
-			(uuid "beb16761-1214-4831-bda9-91337237efb2")
-		)
-		(instances
-			(project ""
-				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/5833f712-63ee-492f-b888-d285859535d4"
-					(reference "IC4")
 					(unit 1)
 				)
 			)
@@ -6242,6 +6244,79 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Q_NMOS_GDS")
+		(at 165.1 140.97 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ac6bf34f-afa5-4810-aea4-99f592a15e2c")
+		(property "Reference" "Q3"
+			(at 171.45 139.6999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Q_NMOS_GDS"
+			(at 171.45 142.2399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Package_TO_SOT_SMD:TO-252-2"
+			(at 170.18 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 165.1 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "N-MOSFET transistor, gate/drain/source"
+			(at 165.1 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "63a50568-a49d-4e4d-a6f8-c318df632a0d")
+		)
+		(pin "1"
+			(uuid "96eae730-d7ea-449c-9d6f-b58da2e98df6")
+		)
+		(pin "2"
+			(uuid "f45b6486-cc91-4fa9-a4ec-1fc03f5a5441")
+		)
+		(instances
+			(project "x_board"
+				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/5833f712-63ee-492f-b888-d285859535d4"
+					(reference "Q3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_Small")
 		(at 107.95 60.96 180)
 		(unit 1)
@@ -7282,80 +7357,6 @@
 			(project "x_board"
 				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/5833f712-63ee-492f-b888-d285859535d4"
 					(reference "D5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Q_PNP_BCE")
-		(at 165.1 140.97 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f4dcb052-c8a5-45de-8a01-29d098f1adb2")
-		(property "Reference" "Q3"
-			(at 170.18 139.6999 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Q_PNP_BCE"
-			(at 170.18 142.2399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 170.18 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 165.1 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "PNP transistor, base/collector/emitter"
-			(at 165.1 140.97 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "3"
-			(uuid "e4f35417-92d6-475f-9cbb-02a1791a7a96")
-		)
-		(pin "1"
-			(uuid "9456b2da-0202-4cd2-86b3-8988feebd67f")
-		)
-		(pin "2"
-			(uuid "191572e1-2dc8-490b-9d5a-33a797bc30f4")
-		)
-		(instances
-			(project "x_board"
-				(path "/5140f788-2f35-4c22-8e35-55ece5960fbd/5833f712-63ee-492f-b888-d285859535d4"
-					(reference "Q3")
 					(unit 1)
 				)
 			)

@@ -632,7 +632,7 @@
 		(symbol "ADUM1510_0_1"
 			(rectangle
 				(start -6.35 0)
-				(end 8.89 -24.13)
+				(end 6.35 -24.13)
 				(stroke
 					(width 0)
 					(type default)
@@ -673,7 +673,7 @@
 				)
 			)
 			(pin output line
-				(at 11.43 -19.05 180)
+				(at 8.89 -19.05 180)
 				(length 2.54)
 				(name "VOE"
 					(effects
@@ -691,7 +691,7 @@
 				)
 			)
 			(pin output line
-				(at 11.43 -16.51 180)
+				(at 8.89 -16.51 180)
 				(length 2.54)
 				(name "VOD"
 					(effects
@@ -709,7 +709,7 @@
 				)
 			)
 			(pin output line
-				(at 11.43 -13.97 180)
+				(at 8.89 -13.97 180)
 				(length 2.54)
 				(name "VOC"
 					(effects
@@ -727,7 +727,7 @@
 				)
 			)
 			(pin output line
-				(at 11.43 -11.43 180)
+				(at 8.89 -11.43 180)
 				(length 2.54)
 				(name "VOB"
 					(effects
@@ -745,7 +745,7 @@
 				)
 			)
 			(pin output line
-				(at 11.43 -8.89 180)
+				(at 8.89 -8.89 180)
 				(length 2.54)
 				(name "VOA"
 					(effects
@@ -763,7 +763,7 @@
 				)
 			)
 			(pin power_in line
-				(at 11.43 -6.35 180)
+				(at 8.89 -6.35 180)
 				(length 2.54)
 				(name "GND2"
 					(effects
@@ -781,7 +781,7 @@
 				)
 			)
 			(pin power_in line
-				(at 11.43 -3.81 180)
+				(at 8.89 -3.81 180)
 				(length 2.54)
 				(name "VDD2"
 					(effects
@@ -925,7 +925,7 @@
 				)
 			)
 			(pin power_in line
-				(at 11.43 -21.59 180)
+				(at 8.89 -21.59 180)
 				(length 2.54)
 				(name "GND2"
 					(effects
