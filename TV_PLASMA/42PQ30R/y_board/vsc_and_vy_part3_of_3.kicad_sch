@@ -3322,6 +3322,29 @@
 		)
 		(uuid "4e9be28b-3215-47c4-970f-2cbf1af1ee92")
 	)
+	(text "ZD302:\n\nAbnormal ER_CON_monitor voltages (Shutdown):\n\nER_CON< 43.6 V @ ER_CON_monitor < 3.97 V\nER_CON > 130 V @ ER_CON_monitor> 130 V"
+		(exclude_from_sim no)
+		(at 111.76 151.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "8f5a9149-38ba-459e-8f3a-dbbe6bc48f44")
+	)
+	(label "ER_CON_monitor"
+		(at 137.16 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "074f098b-79fc-4d8a-9d8d-b10056994a1e")
+	)
 	(global_label "PROTECTION_2"
 		(shape passive)
 		(at 66.04 64.77 180)

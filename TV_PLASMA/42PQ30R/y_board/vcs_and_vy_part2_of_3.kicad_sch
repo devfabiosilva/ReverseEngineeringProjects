@@ -3267,6 +3267,16 @@
 		)
 		(uuid "04cb9c35-aab9-44e3-bd85-9d36dba638fb")
 	)
+	(text "VSC_ref:\n\nVSC_A_min = 0.84 x VY_A\nVSC_A_max = 0.90 x VY_A"
+		(exclude_from_sim no)
+		(at 66.04 63.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "1b6a2771-4ec8-447f-91b3-535808bb86a1")
+	)
 	(text "VSC_ADJUST"
 		(exclude_from_sim no)
 		(at 119.38 92.71 0)
@@ -3279,6 +3289,39 @@
 			)
 		)
 		(uuid "1e2a72d7-12d8-4551-a581-35cc4e290d81")
+	)
+	(text "ZD301:\n\nAbnormal VSC_A_monitor voltages (Shutdown):\n\nVSC_A < 146 V @ VY_A_monitor < 5.45 V\nVSC_A > 290 V @ VY_A_monitor > 10.80 V"
+		(exclude_from_sim no)
+		(at 143.51 83.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left)
+		)
+		(uuid "c17c79b7-3913-4a69-892b-b6ea6707ee10")
+	)
+	(label "VSC_ref"
+		(at 76.2 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9c4bf01a-f8f9-42ce-b7b2-cdab18971462")
+	)
+	(label "VSC_A_monitor"
+		(at 116.84 111.76 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "da34af9e-1973-4b77-820b-207bd1d58c68")
 	)
 	(global_label "VSC"
 		(shape output)

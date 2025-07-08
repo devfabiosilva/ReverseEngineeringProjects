@@ -4741,6 +4741,16 @@
 		)
 		(uuid "4f0bf870-911d-4ec9-8665-2a8ed534d8cf")
 	)
+	(text "VY_A\n\nRange: 147.7 V ~ 180.7 V"
+		(exclude_from_sim no)
+		(at 30.48 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "acf91266-78e6-4408-a1cd-7089b80b3d9c")
+	)
 	(text "VSC and VY (Part 1 of 3)"
 		(exclude_from_sim no)
 		(at 154.94 21.59 0)
