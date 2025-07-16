@@ -2,12 +2,49 @@
 
 Este projeto documenta o processo completo de engenharia reversa da TV de plasma LG 42PQ30R, com foco especial nas placas Z-SUS e Y-SUS, incluindo análises de circuito, medições e diagnósticos de falhas comuns.
 
+# _Detalhes:_
+
+## Z-Board:
+
+**Modelo:**
+
+LGE PDP 081223
+
+BOARD: 42G2_Z
+
+PART NO: EAX57633801
+
+REV.: M
+
+LOC NO: 3XXX
+
+<p align="center">
+ <img src="images/Z-board-top.jpg" alt="ZBOARD" width="50%"/>
+</p>
+
+## Y-Board:
+
+**Modelo:**
+
+LGE PDP 090209
+
+BOARD: 42G2_YSUS
+
+PART NO: EAX57633701
+
+REV.: N
+
+LOC NO: 2XXX
+
+<p align="center">
+ <img src="images/Y-board-top.jpg" alt="YBOARD" width="50%"/>
+</p>
 ---
 
 ## 📷 Fotos e Esquemas
 
-- [ ] Fotos gerais da placa Y-SUS
-- [ ] Fotos gerais da placa Z-SUS
+- Fotos gerais da placa Y-SUS [top](images/Y-board-top.jpg) [bottom](images/Y-board-bottom.jpg)
+- Fotos gerais da placa Z-SUS [top](images/Z-board-top.jpg) [bottom](images/Z-board-bottom.jpg)
 - [ ] Detalhes de componentes críticos (IGBTs, transformadores, optoacopladores)
 - [ ] Marcação dos pinos e trilhas relevantes
 - [ ] Anotações sobre modificação/limpeza de resinas

@@ -11,9 +11,9 @@ This repository is dedicated to reverse engineering of electronic devices for R&
 ├── TV/
 │ └── TV_PLASMA/
 │    └── LG_42PQ30R/
-│       ├── Y-SUS/
-│       ├── Z-SUS/
-│       ├── oscilogramas/
+│       ├── images/
+│       ├── x_board/
+│       ├── y_board/
 │       └── README.md
 ```
 
