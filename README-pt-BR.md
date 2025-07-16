@@ -29,7 +29,7 @@ Esta seção documenta o processo completo de engenharia reversa da **TV de Plas
 - Diagnóstico de degradação de componentes  
 - Restauração e testes de desempenho  
 
-👉 Documentação completa disponível em: [`TV/TV_PLASMA/LG_42PQ30R/README.md`](TV/TV_PLASMA/LG_42PQ30R/README.md)
+👉 Documentação completa disponível em: [`TV_PLASMA/LG_42PQ30R/README.md`](TV_PLASMA/LG_42PQ30R/README.md)
 
 ---
 

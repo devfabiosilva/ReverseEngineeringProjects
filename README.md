@@ -30,7 +30,7 @@ This section documents the full reverse engineering process of the **LG 42PQ30R 
 - Component degradation diagnosis  
 - Restoration and performance testing  
 
-👉 Full documentation inside: [`TV/TV_PLASMA/LG_42PQ30R/README.md`](TV/TV_PLASMA/LG_42PQ30R/README.md)
+👉 Full documentation inside: [`TV_PLASMA/LG_42PQ30R/README.md`](TV_PLASMA/LG_42PQ30R/README.md)
 
 ---
 

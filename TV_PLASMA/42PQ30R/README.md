@@ -19,7 +19,7 @@ REV.: M
 LOC NO: 3XXX
 
 <p align="center">
- <img src="images/Z-board-top.jpg" alt="ZBOARD" width="40%"/>
+ <img src="images/Z-board-top.jpg" alt="ZBOARD" width="80%"/>
 </p>
 
 ## Y-Board:
@@ -37,7 +37,7 @@ REV.: N
 LOC NO: 2XXX
 
 <p align="center">
- <img src="images/Y-board-top.jpg" alt="YBOARD" width="40%"/>
+ <img src="images/Y-board-top.jpg" alt="YBOARD" width="80%"/>
 </p>
 
 ---
