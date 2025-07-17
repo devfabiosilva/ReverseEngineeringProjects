@@ -8483,7 +8483,7 @@
 		(dnp no)
 		(uuid "bd8cd279-d69b-4a4a-b78d-4d6a77fcb87a")
 		(property "Reference" "Q502"
-			(at 173.99 116.84 0)
+			(at 175.26 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8491,14 +8491,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NIGBT_GCE"
+		(property "Value" "RJP4584"
 			(at 175.26 114.2999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -9187,7 +9186,7 @@
 		(dnp no)
 		(uuid "ef71afe1-bd82-408c-8f0f-0ab035b881d4")
 		(property "Reference" "Q501"
-			(at 171.45 86.36 0)
+			(at 172.72 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9195,14 +9194,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NIGBT_GCE"
+		(property "Value" "RJP4584"
 			(at 172.72 83.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""

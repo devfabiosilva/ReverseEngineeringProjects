@@ -1,6 +1,6 @@
 # Reverse Engineering – LG 42PQ30R (Plasma TV)
 
-This project documents the complete reverse engineering process of the LG 42PQ30R plasma TV, with a special focus on the Z-SUS and Y-SUS boards. It includes circuit analysis, measurements, and common fault diagnostics.
+This project documents the reverse engineering process in Z board and Y board of the LG 42PQ30R plasma TV. It includes circuit analysis, measurements, and common fault diagnostics.
 
 # _Details:_
 
@@ -20,6 +20,12 @@ LOC NO: 3XXX
 
 <p align="center">
  <img src="images/Z-board-top.jpg" alt="ZBOARD" width="80%"/>
+</p>
+
+### Z-Board Top (detailed)
+
+<p align="center">
+ <img src="images/Z-top-detail.jpg" alt="ZBOARD-detail" width="80%"/>
 </p>
 
 ## Y-Board:

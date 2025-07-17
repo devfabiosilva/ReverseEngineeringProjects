@@ -1,6 +1,6 @@
 # Engenharia Reversa – LG 42PQ30R (TV de Plasma)
 
-Este projeto documenta o processo completo de engenharia reversa da TV de plasma LG 42PQ30R, com foco especial nas placas Z-SUS e Y-SUS, incluindo análises de circuito, medições e diagnósticos de falhas comuns.
+Este projeto documenta o processo completo de engenharia da placa Z e Y da TV de plasma LG 42PQ30R, incluindo análises de circuito, medições e diagnósticos de falhas comuns.
 
 # _Detalhes:_
 
@@ -20,6 +20,12 @@ LOC NO: 3XXX
 
 <p align="center">
  <img src="images/Z-board-top.jpg" alt="ZBOARD" width="80%"/>
+</p>
+
+### Z-Board Topo detalhe básico
+
+<p align="center">
+ <img src="images/Z-top-detail.jpg" alt="ZBOARD-detail" width="80%"/>
 </p>
 
 ## Y-Board:
