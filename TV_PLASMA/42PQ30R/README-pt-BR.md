@@ -28,6 +28,12 @@ LOC NO: 3XXX
  <img src="images/Z-top-detail.jpg" alt="ZBOARD-detail" width="80%"/>
 </p>
 
+### Z-Board Por baixo detalhe básico
+
+<p align="center">
+ <img src="images/Z-bottom-detail.jpg" alt="ZBOARD-detail-bottom" width="80%"/>
+</p>
+
 ## Y-Board:
 
 **Modelo:**
