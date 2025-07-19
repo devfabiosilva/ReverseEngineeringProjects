@@ -52,6 +52,10 @@ LOC NO: 2XXX
  <img src="images/Y-board-top.jpg" alt="YBOARD" width="80%"/>
 </p>
 
+<p align="center">
+ <img src="images/Y-board-top-detailed.jpg" alt="YBOARD-TOP-DETAILED" width="80%"/>
+</p>
+
 ---
 
 ## 📷 Photos and Schematics

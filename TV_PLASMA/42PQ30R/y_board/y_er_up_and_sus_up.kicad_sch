@@ -5389,14 +5389,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 97.79 44.4562 0)
+		(property "Value" "3.3uF/250V"
+			(at 82.55 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -7587,7 +7586,7 @@
 		(dnp no)
 		(uuid "e6d9a026-5659-4f78-b890-344bb8b53cf7")
 		(property "Reference" "C720"
-			(at 97.79 45.72 0)
+			(at 107.95 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7595,14 +7594,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C_Small"
-			(at 106.68 44.4562 0)
+		(property "Value" "3.3uF/250V"
+			(at 107.95 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""

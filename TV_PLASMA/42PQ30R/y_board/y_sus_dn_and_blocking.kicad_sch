@@ -6654,10 +6654,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d3792790-dd3f-4a96-8eac-8bbccfa2c3b0")
 		(property "Reference" "C202"
-			(at 91.44 85.9281 0)
+			(at 80.01 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6665,8 +6664,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "~"
-			(at 91.44 88.4681 0)
+		(property "Value" "330uF/25V"
+			(at 77.47 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)

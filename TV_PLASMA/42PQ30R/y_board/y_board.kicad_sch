@@ -2972,14 +2972,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "C"
+		(property "Value" "3.3uF/250V"
 			(at 195.58 73.6599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""

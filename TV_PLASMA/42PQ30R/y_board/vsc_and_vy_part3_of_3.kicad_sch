@@ -3322,7 +3322,7 @@
 		)
 		(uuid "4e9be28b-3215-47c4-970f-2cbf1af1ee92")
 	)
-	(text "ZD302:\n\nAbnormal ER_CON_monitor voltages (Shutdown):\n\nER_CON< 43.6 V @ ER_CON_monitor < 3.97 V\nER_CON > 130 V @ ER_CON_monitor> 130 V"
+	(text "ZD302:\n\nAbnormal ER_CON_monitor voltages (Shutdown):\n\nER_CON < 43.6 V @ ER_CON_monitor < 3.97 V\nER_CON > 130 V @ ER_CON_monitor > 11.8 V"
 		(exclude_from_sim no)
 		(at 111.76 151.13 0)
 		(effects
