@@ -7936,7 +7936,7 @@
 		(dnp no)
 		(uuid "e2ec9cc6-e625-4644-9269-7df42a3d4900")
 		(property "Reference" "IC504"
-			(at 71.12 138.43 90)
+			(at 72.39 133.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7944,14 +7944,13 @@
 				(justify right)
 			)
 		)
-		(property "Value" "~"
-			(at 71.12 137.1599 90)
+		(property "Value" "E43A 813J30"
+			(at 87.63 138.43 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""

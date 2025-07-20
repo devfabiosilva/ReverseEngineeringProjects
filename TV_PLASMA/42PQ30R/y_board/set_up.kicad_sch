@@ -4620,20 +4620,19 @@
 		(dnp no)
 		(uuid "90784f92-14de-4ea3-96a8-9f5ab8f46c30")
 		(property "Reference" "IC603"
-			(at 92.71 125.73 0)
+			(at 92.71 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "S21850"
+		(property "Value" "XK16 6361"
 			(at 92.71 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -4714,13 +4713,12 @@
 				)
 			)
 		)
-		(property "Value" "S21850"
-			(at 92.71 74.93 0)
+		(property "Value" "XK16 6361"
+			(at 92.71 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""

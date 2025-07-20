@@ -3231,7 +3231,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ee67d522-5e6a-4dd0-a5fb-4562f738dfd6")
 		(property "Reference" "IC102"
 			(at 138.0841 77.47 0)
@@ -3242,14 +3241,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "74AHC541"
-			(at 138.0841 77.47 0)
+		(property "Value" "VHC T541A"
+			(at 137.16 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""

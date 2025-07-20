@@ -3908,14 +3908,14 @@
 		(dnp no)
 		(uuid "fcb037d7-fc83-4301-8f7d-bdc56a96d821")
 		(property "Reference" "IC201"
-			(at 176.53 81.28 0)
+			(at 176.53 80.01 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "ADUM1510"
 			(at 176.53 82.55 0)
 			(effects
 				(font

@@ -5525,7 +5525,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "AS393M"
 			(at 203.835 102.87 0)
 			(effects
 				(font

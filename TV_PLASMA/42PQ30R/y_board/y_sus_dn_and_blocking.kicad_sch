@@ -4040,7 +4040,7 @@
 		(dnp no)
 		(uuid "0d4d295b-49bc-4127-8b4b-72de7fc2957d")
 		(property "Reference" "IC703"
-			(at 68.58 118.11 0)
+			(at 68.58 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4048,12 +4048,11 @@
 			)
 		)
 		(property "Value" "S21850"
-			(at 68.58 118.11 0)
+			(at 68.58 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""

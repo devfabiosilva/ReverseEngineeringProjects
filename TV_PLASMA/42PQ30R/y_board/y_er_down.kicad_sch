@@ -2542,12 +2542,11 @@
 			)
 		)
 		(property "Value" "S21850"
-			(at 127 82.55 0)
+			(at 127 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""

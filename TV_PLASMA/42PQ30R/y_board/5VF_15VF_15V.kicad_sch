@@ -6492,14 +6492,14 @@
 		(dnp no)
 		(uuid "c4e0358c-8634-4ca4-97c4-2204d5799b0b")
 		(property "Reference" "IC506"
-			(at 218.44 119.38 0)
+			(at 217.17 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "D97 63 SJ"
 			(at 217.805 119.38 0)
 			(effects
 				(font
@@ -6866,13 +6866,12 @@
 				)
 			)
 		)
-		(property "Value" "L7805"
-			(at 77.47 63.5 0)
+		(property "Value" "AS7805A"
+			(at 82.55 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""

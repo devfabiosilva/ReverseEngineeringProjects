@@ -4929,8 +4929,8 @@
 				)
 			)
 		)
-		(property "Value" "~"
-			(at 101.6 123.19 0)
+		(property "Value" "ADUM123"
+			(at 101.6 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
