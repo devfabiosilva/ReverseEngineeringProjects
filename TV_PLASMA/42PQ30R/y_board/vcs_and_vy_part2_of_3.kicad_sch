@@ -3290,7 +3290,7 @@
 		)
 		(uuid "1e2a72d7-12d8-4551-a581-35cc4e290d81")
 	)
-	(text "ZD301:\n\nAbnormal VSC_A_monitor voltages (Shutdown):\n\nVSC_A < 146 V @ VY_A_monitor < 5.45 V\nVSC_A > 290 V @ VY_A_monitor > 10.80 V"
+	(text "ZD301:\n\nAbnormal VSC_A_monitor voltages (Shutdown):\n\nVSC_A < 146 V @ VSC_A_monitor < 5.45 V\nVSC_A > 290 V @ VSC_A_monitor > 10.80 V"
 		(exclude_from_sim no)
 		(at 143.51 83.82 0)
 		(effects
