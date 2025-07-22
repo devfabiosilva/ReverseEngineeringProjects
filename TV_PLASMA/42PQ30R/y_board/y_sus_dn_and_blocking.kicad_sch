@@ -4126,7 +4126,7 @@
 		(dnp no)
 		(uuid "0db31ed2-b2e9-4001-b663-2346a5efa1c5")
 		(property "Reference" "Q15"
-			(at 173.99 125.7299 0)
+			(at 182.88 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4134,14 +4134,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NMOS"
-			(at 173.99 128.2699 0)
+		(property "Value" "IRFP4332"
+			(at 187.96 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -6800,14 +6799,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NIGBT_GCE"
+		(property "Value" "IRGP4086"
 			(at 128.27 128.2699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -7082,14 +7080,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D_Filled"
+		(property "Value" "RF2001"
 			(at 146.05 128.2699 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""

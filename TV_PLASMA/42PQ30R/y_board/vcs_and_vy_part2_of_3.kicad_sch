@@ -5843,7 +5843,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d3c8e514-69b6-43a1-8d56-1be8c6c87879")
-		(property "Reference" "Q50"
+		(property "Reference" "Q501"
 			(at 45.72 76.2 0)
 			(effects
 				(font
@@ -5852,14 +5852,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NMOS"
-			(at 44.45 74.9299 0)
+		(property "Value" "5N50C"
+			(at 45.72 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -5928,7 +5927,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/0998a104-e78a-47ab-96f3-a0afd9646c62"
-					(reference "Q50")
+					(reference "Q501")
 					(unit 1)
 				)
 			)

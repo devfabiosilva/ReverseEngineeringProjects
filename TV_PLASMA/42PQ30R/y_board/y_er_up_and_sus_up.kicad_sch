@@ -5657,7 +5657,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "56cda535-d5b2-46ca-a3bb-0f591714e67a")
 		(property "Reference" "Q12"
 			(at 231.14 69.8499 0)
@@ -5668,14 +5667,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NIGBT_GCE"
-			(at 231.14 71.1199 0)
+		(property "Value" "30J124"
+			(at 231.14 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -6208,7 +6206,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "88e684e5-2531-47ec-83da-3c38cecdd905")
 		(property "Reference" "Q13"
 			(at 207.01 69.8499 0)
@@ -6219,14 +6216,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NIGBT_GCE"
-			(at 207.01 71.1199 0)
+		(property "Value" "30J124"
+			(at 207.01 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -6282,10 +6278,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "8b32a1c3-5bc7-4ed6-94f5-9f614343f3cd")
 		(property "Reference" "Q14"
-			(at 167.64 91.4399 0)
+			(at 158.75 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6293,14 +6288,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NIGBT_GCE"
-			(at 167.64 93.9799 0)
+		(property "Value" "RJP4584"
+			(at 154.94 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -6367,14 +6361,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D_Filled"
+		(property "Value" "RF2001"
 			(at 175.26 68.5799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -7216,7 +7209,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "d885c90b-0e58-4958-b047-2eb58f24710d")
 		(property "Reference" "Q11"
 			(at 252.73 68.5799 0)
@@ -7227,14 +7219,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NIGBT_GCE"
-			(at 252.73 71.1199 0)
+		(property "Value" "30J124"
+			(at 251.46 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -7368,14 +7359,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D_Filled"
+		(property "Value" "RFU20"
 			(at 261.62 95.2499 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""

@@ -4493,14 +4493,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NMOS"
-			(at 180.34 99.0599 0)
+		(property "Value" "IR P919H"
+			(at 180.34 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""

@@ -2765,14 +2765,13 @@
 				)
 			)
 		)
-		(property "Value" "D_Filled"
-			(at 172.7199 107.95 90)
+		(property "Value" "RF2001"
+			(at 168.91 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -2995,14 +2994,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_NIGBT_GCE"
+		(property "Value" "RJP4584"
 			(at 194.31 77.4699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -3058,7 +3056,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "92b24e07-537a-4ef1-9cef-363303e499ab")
 		(property "Reference" "D24"
 			(at 212.09 102.8699 90)
@@ -3069,14 +3066,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "D_Filled"
-			(at 212.09 104.1399 90)
+		(property "Value" "RF2001"
+			(at 212.09 104.14 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""

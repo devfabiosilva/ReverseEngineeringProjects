@@ -6028,7 +6028,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5c487c88-50b9-4f76-8499-ac646e25e37f")
-		(property "Reference" "Q505"
+		(property "Reference" "Q503"
 			(at 160.02 81.28 0)
 			(effects
 				(font
@@ -6037,14 +6037,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NMOS"
-			(at 158.75 80.0099 0)
+		(property "Value" "5N50C"
+			(at 160.02 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
@@ -6113,7 +6112,7 @@
 		(instances
 			(project "y_board"
 				(path "/b3bc71fd-0ca0-4281-9bf5-aadd2561d695/24722eec-b18f-4f1f-afe2-83a605a5bded"
-					(reference "Q505")
+					(reference "Q503")
 					(unit 1)
 				)
 			)
@@ -6986,7 +6985,7 @@
 		(dnp no)
 		(uuid "92ccab67-dc66-454e-8012-f0c084fa58a7")
 		(property "Reference" "IC501"
-			(at 201.93 101.6 0)
+			(at 204.47 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6994,14 +6993,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NCP1200D60"
-			(at 202.8541 81.28 0)
+		(property "Value" "200D PL00"
+			(at 187.96 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"

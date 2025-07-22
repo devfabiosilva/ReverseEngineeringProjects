@@ -3945,7 +3945,7 @@
 		(dnp no)
 		(uuid "7bd3cdef-8656-41df-93be-8f66ed69d5a0")
 		(property "Reference" "Q21"
-			(at 222.25 127 0)
+			(at 223.52 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3953,14 +3953,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "NMOS"
-			(at 223.52 125.7299 0)
+		(property "Value" "K3667"
+			(at 223.52 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
