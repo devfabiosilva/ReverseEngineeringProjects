@@ -3678,14 +3678,13 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Q_PNP_BCE"
-			(at 161.29 107.9499 0)
+		(property "Value" "AY 8J"
+			(at 161.29 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
 			)
 		)
 		(property "Footprint" ""
